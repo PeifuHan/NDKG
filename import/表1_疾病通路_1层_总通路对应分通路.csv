@@ -1,0 +1,347 @@
+疾病通路的编号,疾病名称,通路名称,通路编号,类型,类型ID
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway,N01002,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway,N01002,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to mGluR5-Ca2+ -apoptotic pathway,N01008,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to mGluR5-Ca2+ -apoptotic pathway,N01008,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway,N01007,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway,N01007,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway,N01001,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway,N01001,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway,N01004,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway,N01004,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway,N01006,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway,N01006,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to transport of calcium,N01003,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to transport of calcium,N01003,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to 26S proteasome-mediated protein degradation,N01060,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to 26S proteasome-mediated protein degradation,N01060,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to PERK-ATF4 signaling pathway,N01010,Unfolded protein response,nt06534
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to PERK-ATF4 signaling pathway,N01010,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to PERK-ATF4 signaling pathway,N01010,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to IRE1a-XBP1 signaling pathway,N01012,Unfolded protein response,nt06534
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to IRE1a-XBP1 signaling pathway,N01012,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to IRE1a-XBP1 signaling pathway,N01012,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to IRE1a-JNK signaling pathway,N01014,Unfolded protein response,nt06534
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to IRE1a-JNK signaling pathway,N01014,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to IRE1a-JNK signaling pathway,N01014,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to ATF6-mediated transcription,N01016,Unfolded protein response,nt06534
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to ATF6-mediated transcription,N01016,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to ATF6-mediated transcription,N01016,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to crosstalk between extrinsic and intrinsic apoptotic pathways,N01005,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to crosstalk between extrinsic and intrinsic apoptotic pathways,N01005,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway,N00996,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to AGE-RAGE signaling pathway,N00996,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to electron transfer in Complex I,N00997,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to electron transfer in Complex I,N00997,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Manganese to electron transfer in Complex II,N01402,Alzheimer disease,nt06460
+hsa05012,Parkinson disease,Manganese to electron transfer in Complex II,N01402,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Manganese to electron transfer in Complex II,N01402,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to electron transfer in Complex IV,N00999,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to electron transfer in Complex IV,N00999,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to anterograde axonal transport,N01017,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant PSEN1 to anterograde axonal transport,N01017,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to anterograde axonal transport,N01018,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Mutation-caused aberrant Abeta to anterograde axonal transport,N01018,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Zn to anterograde axonal transport,N01403,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Zn to anterograde axonal transport,N01403,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Iron to anterograde axonal transport,N01414,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Iron to anterograde axonal transport,N01414,Pathways of neurodegeneration,nt06466
+hsa05010,Alzheimer disease,Mercury to NEP-mediated Abeta degradation,N01416,Alzheimer disease,nt06460
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to mGluR1 signaling pathway,N01032,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to mGluR1 signaling pathway,N01032,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to VGCC-Ca2+ -apoptotic pathway,N01031,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to VGCC-Ca2+ -apoptotic pathway,N01031,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01020,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01020,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01022,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01022,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01024,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01024,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01026,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to Parkin-mediated ubiquitination,N01026,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to 26S proteasome-mediated protein degradation,N01030,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to 26S proteasome-mediated protein degradation,N01030,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated UCHL1 to UCHL1-mediated hydrolysis,N01028,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated UCHL1 to UCHL1-mediated hydrolysis,N01028,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to PERK-ATF4 signaling pathway,N01035,Unfolded protein response,nt06534
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to PERK-ATF4 signaling pathway,N01035,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to PERK-ATF4 signaling pathway,N01035,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to IRE1a-XBP1 signaling pathway,N01034,Unfolded protein response,nt06534
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to IRE1a-XBP1 signaling pathway,N01034,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to IRE1a-XBP1 signaling pathway,N01034,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to ATF6-mediated transcription,N01033,Unfolded protein response,nt06534
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to ATF6-mediated transcription,N01033,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to ATF6-mediated transcription,N01033,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to PINK1-Parkin-mediated MFN2 degradation,N01053,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to PINK1-Parkin-mediated MFN2 degradation,N01053,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to PINK1-Parkin-mediated MFN2 degradation,N01054,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to PINK1-Parkin-mediated MFN2 degradation,N01054,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated DJ1 to intrinsic apoptotic pathway,N01051,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated DJ1 to intrinsic apoptotic pathway,N01051,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to intrinsic apoptotic pathway,N01050,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to intrinsic apoptotic pathway,N01050,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to intrinsic apoptotic pathway,N01049,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to intrinsic apoptotic pathway,N01049,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to intrinsic apoptotic pathway,N01048,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to intrinsic apoptotic pathway,N01048,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-activated LRRK2 to intrinsic apoptotic pathway,N01047,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-activated LRRK2 to intrinsic apoptotic pathway,N01047,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated DJ1 to FAS-JNK signaling patwhay,N01057,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Paraquat to FAS-JNK signaling pathway,N01417,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to L-DOPA generation,N01037,Dopamine and serotonin metabolism,nt06028
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to L-DOPA generation,N01037,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to DOPAL generation,N01039,Dopamine and serotonin metabolism,nt06028
+hsa05012,Parkinson disease,Mutation-inactivated PRKN to DOPAL generation,N01039,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to transport of dopamine,N01041,Dopamine and serotonin metabolism,nt06028
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to transport of dopamine,N01041,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to electron transfer in Complex I,N01042,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to electron transfer in Complex I,N01042,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to electron transfer in Complex I,N01043,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated PINK1 to electron transfer in Complex I,N01043,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,MPP+ to electron transfer in Complex I,N01044,Parkinson disease,nt06463
+hsa05012,Parkinson disease,MPP+ to electron transfer in Complex I,N01044,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Rotenone to electron transfer in Complex I,N01045,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Rotenone to electron transfer in Complex I,N01045,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Manganese to electron transfer in Complex II,N01402,Alzheimer disease,nt06460
+hsa05012,Parkinson disease,Manganese to electron transfer in Complex II,N01402,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Manganese to electron transfer in Complex II,N01402,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Maneb to electron transfer in Complex III,N01046,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Maneb to electron transfer in Complex III,N01046,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to anterograde axonal transport,N01055,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-caused aberrant SNCA to anterograde axonal transport,N01055,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,Mutation-inactivated DJ1 to to p53-mediated transcription,N01058,Parkinson disease,nt06463
+hsa05012,Parkinson disease,Mutation-inactivated DJ1 to KEAP1-NRF2 signaling pathway,N01059,Parkinson disease,nt06463
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated SIGMAR1 to Ca2+ -apoptotic pathway,N01151,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated SIGMAR1 to Ca2+ -apoptotic pathway,N01151,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to 26S proteasome-mediated protein degradation,N01144,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to 26S proteasome-mediated protein degradation,N01144,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated VCP to 26S proteasome-mediated protein degradation,N01145,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated VCP to 26S proteasome-mediated protein degradation,N01145,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated UBQLN2 to 26S proteasome-mediated protein degradation,N01146,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated UBQLN2 to 26S proteasome-mediated protein degradation,N01146,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to PERK-ATF4 signaling pathway,N01149,Unfolded protein response,nt06534
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to PERK-ATF4 signaling pathway,N01149,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to PERK-ATF4 signaling pathway,N01149,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to IRE1a-XBP1 signaling pathway,N01148,Unfolded protein response,nt06534
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to IRE1a-XBP1 signaling pathway,N01148,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to IRE1a-XBP1 signaling pathway,N01148,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated VAPB to ATF6-mediated transcription,N01150,Unfolded protein response,nt06534
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated VAPB to ATF6-mediated transcription,N01150,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated VAPB to ATF6-mediated transcription,N01150,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to ATF6-mediated transcription,N01147,Unfolded protein response,nt06534
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to ATF6-mediated transcription,N01147,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to ATF6-mediated transcription,N01147,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated C9orf72 to C9orf72-mediated autophagy initiation,N01143,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated C9orf72 to C9orf72-mediated autophagy initiation,N01143,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated OPTN to PINK-Parkin-mediated autophagosome formation,N01138,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated OPTN to PINK-Parkin-mediated autophagosome formation,N01138,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated p62 to PINK-Parkin-mediated autophagosome formation,N01139,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated p62 to PINK-Parkin-mediated autophagosome formation,N01139,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated TBK1 to TBK1-mediated autophagosome formation,N01141,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated TBK1 to TBK1-mediated autophagosome formation,N01141,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to intrinsic apoptotic pathway,N01135,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to intrinsic apoptotic pathway,N01135,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-inactivated ERBB4 to NRG-ERBB4-PI3K signaling pathway,N01164,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant TDP43 to electron transfer in Complex I,N01136,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant TDP43 to electron transfer in Complex I,N01136,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to retrograde axonal transport,N01160,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant SOD1 to retrograde axonal transport,N01160,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant DCTN1 to retrograde axonal transport,N01158,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant DCTN1 to retrograde axonal transport,N01158,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant TUBA4A to retrograde axonal transport,N01159,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant TUBA4A to retrograde axonal transport,N01159,Pathways of neurodegeneration,nt06466
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant PFN1 to actin polymerization,N01162,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant TDP43 to TDP-43-regulated splicing,N01155,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant FUS to FUS-regulated splicing,N01157,Amyotrophic lateral sclerosis,nt06464
+hsa05014,Amyotrophic lateral sclerosis,Mutation-caused aberrant GLE1 to nuclear export of mRNA,N01153,Amyotrophic lateral sclerosis,nt06464
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway,N00985,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway,N00985,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to VGCC-Ca2+ -apoptotic pathway,N00986,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to VGCC-Ca2+ -apoptotic pathway,N00986,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to transport of calcium,N00987,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to transport of calcium,N00987,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to 26S proteasome-mediated protein degradation,N01061,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to 26S proteasome-mediated protein degradation,N01061,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to autophagy-vesicle nucleation,N00993,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to autophagy-vesicle nucleation,N00993,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to extrinsic apoptotic pathway,N00983,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to TNF-JNK signaling pathway,N00992,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to electron transfer in Complex II,N00989,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to electron transfer in Complex II,N00989,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to electron transfer in Complex III,N00991,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to electron transfer in Complex III,N00991,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to retrograde axonal transport,N00977,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to retrograde axonal transport,N00977,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to anterograde axonal transport,N00979,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to anterograde axonal transport,N00979,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to REST-mediated transcriptional repression,N00980,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to CREB-mediated transcription,N00981,Huntington disease,nt06461
+hsa05016,Huntington disease,Mutation-caused aberrant Htt to p53-mediated transcription,N00982,Huntington disease,nt06461
+hsa05017,Spinocerebellar ataxia,Mutation-caused aberrant SPTBN2 to mGluR1-TRPC3 signaling pathway,N00960,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-caused aberrant SPTBN2 to mGluR1-TRPC3 signaling pathway,N00960,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-activated GRM1 to mGluR1-TRPC3 signaling pathway,N00954,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-activated GRM1 to mGluR1-TRPC3 signaling pathway,N00954,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-activated ITPR1 to mGluR1-TRPC3 signaling pathway,N00958,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-activated ITPR1 to mGluR1-TRPC3 signaling pathway,N00958,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,ITPR1-reduced expression to mGluR1-TRPC3 signaling pathway,N00959,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,ITPR1-reduced expression to mGluR1-TRPC3 signaling pathway,N00959,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated PRKCG to mGluR1-TRPC3 signaling pathway,N00955,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated PRKCG to mGluR1-TRPC3 signaling pathway,N00955,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-activated PRKCG to mGluR1-TRPC3 signaling pathway,N00956,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-activated PRKCG to mGluR1-TRPC3 signaling pathway,N00956,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-activated TRPC3 to mGluR1-TRPC3 signaling pathway,N00961,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-activated TRPC3 to mGluR1-TRPC3 signaling pathway,N00961,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-caused abberant ATXN2/3 to mGluR5-Ca2+ -apoptotic pathway,N00957,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-caused abberant ATXN2/3 to mGluR5-Ca2+ -apoptotic pathway,N00957,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-activated CACNA1A to VGCC-Ca2+ -apoptotic pathway,N00968,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-activated CACNA1A to VGCC-Ca2+ -apoptotic pathway,N00968,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated CACNA1A to VGCC-Ca2- -apoptotic pathway,N00969,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated CACNA1A to VGCC-Ca2- -apoptotic pathway,N00969,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-caused aberrant PDYN to transport of calcium,N00971,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-caused aberrant PDYN to transport of calcium,N00971,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated KCNC3 to transport of potassium,N00973,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated KCND3 to transport of potassium,N00975,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated ATXN3 to autophagy-vesicle nucleation,N00962,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-inactivated ATXN3 to autophagy-vesicle nucleation,N00962,Pathways of neurodegeneration,nt06466
+hsa05017,Spinocerebellar ataxia,DAB1-overexpression to RELN-VLDLR-PI3K signaling pathway,N00964,Spinocerebellar ataxia,nt06462
+hsa05017,Spinocerebellar ataxia,Mutation-caused aberrant ATXN1 to RORA-mediated transcription,N00966,Spinocerebellar ataxia,nt06462
+hsa05020,Prion disease,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway,N01199,Prion disease,nt06465
+hsa05020,Prion disease,Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway,N01199,Pathways of neurodegeneration,nt06466
+hsa05020,Prion disease,Scrapie conformation PrPSc to VGCC-Ca2+ -apoptotic pathway,N01201,Prion disease,nt06465
+hsa05020,Prion disease,Scrapie conformation PrPSc to VGCC-Ca2+ -apoptotic pathway,N01201,Pathways of neurodegeneration,nt06466
+hsa05020,Prion disease,Scrapie conformation PrPSc to transport of calcium,N01200,Prion disease,nt06465
+hsa05020,Prion disease,Scrapie conformation PrPSc to transport of calcium,N01200,Pathways of neurodegeneration,nt06466
+hsa05020,Prion disease,Scrapie conformation PrPSc to 26S proteasome-mediated protein degradation,N01197,Prion disease,nt06465
+hsa05020,Prion disease,Scrapie conformation PrPSc to 26S proteasome-mediated protein degradation,N01197,Pathways of neurodegeneration,nt06466
+hsa05020,Prion disease,Scrapie conformation PrPSc to PERK-ATF4 signaling pathway,N01198,Unfolded protein response,nt06534
+hsa05020,Prion disease,Scrapie conformation PrPSc to PERK-ATF4 signaling pathway,N01198,Prion disease,nt06465
+hsa05020,Prion disease,Scrapie conformation PrPSc to PERK-ATF4 signaling pathway,N01198,Pathways of neurodegeneration,nt06466
+hsa05020,Prion disease,Scrapie conformation PrPSc to PRNP-PI3K-NOX2 signaling pathway,N01205,Prion disease,nt06465
+hsa05020,Prion disease,Oligomeric conformation PrPc to anterograde axonal transport,N01202,Prion disease,nt06465
+hsa05020,Prion disease,Oligomeric conformation PrPc to anterograde axonal transport,N01202,Pathways of neurodegeneration,nt06466
+hsa05020,Prion disease,Scrapie conformation PrPSc to Notch singling pathway,N01203,Prion disease,nt06465
+hsa04730,Long-term depression,mGluR1-TRPC3 signaling pathway,N00953,Calcium signaling,nt06528
+hsa04730,Long-term depression,mGluR1-TRPC3 signaling pathway,N00953,Parkinson disease,nt06463
+hsa04730,Long-term depression,mGluR1-TRPC3 signaling pathway,N00953,Spinocerebellar ataxia,nt06462
+hsa04730,Long-term depression,mGluR1-TRPC3 signaling pathway,N00953,Pathways of neurodegeneration,nt06466
+hsa04720,Long-term potentiation,mGluR5-Ca2+ -apoptotic pathway,N00984,Calcium signaling,nt06528
+hsa04720,Long-term potentiation,mGluR5-Ca2+ -apoptotic pathway,N00984,Alzheimer disease,nt06460
+hsa04720,Long-term potentiation,mGluR5-Ca2+ -apoptotic pathway,N00984,Amyotrophic lateral sclerosis,nt06464
+hsa04720,Long-term potentiation,mGluR5-Ca2+ -apoptotic pathway,N00984,Huntington disease,nt06461
+hsa04720,Long-term potentiation,mGluR5-Ca2+ -apoptotic pathway,N00984,Spinocerebellar ataxia,nt06462
+hsa04720,Long-term potentiation,mGluR5-Ca2+ -apoptotic pathway,N00984,Prion disease,nt06465
+hsa04720,Long-term potentiation,mGluR5-Ca2+ -apoptotic pathway,N00984,Pathways of neurodegeneration,nt06466
+hsa04020,Calcium signaling pathway,mAChR-Ca2+ -apoptotic pathway,N01000,Calcium signaling,nt06528
+hsa04020,Calcium signaling pathway,mAChR-Ca2+ -apoptotic pathway,N01000,Alzheimer disease,nt06460
+hsa04020,Calcium signaling pathway,mAChR-Ca2+ -apoptotic pathway,N01000,Pathways of neurodegeneration,nt06466
+hsa04724,Glutamatergic synapse,VGCC-Ca2+ -apoptotic pathway,N00967,Alzheimer disease,nt06460
+hsa04724,Glutamatergic synapse,VGCC-Ca2+ -apoptotic pathway,N00967,Parkinson disease,nt06463
+hsa04724,Glutamatergic synapse,VGCC-Ca2+ -apoptotic pathway,N00967,Huntington disease,nt06461
+hsa04724,Glutamatergic synapse,VGCC-Ca2+ -apoptotic pathway,N00967,Spinocerebellar ataxia,nt06462
+hsa04724,Glutamatergic synapse,VGCC-Ca2+ -apoptotic pathway,N00967,Prion disease,nt06465
+hsa04724,Glutamatergic synapse,VGCC-Ca2+ -apoptotic pathway,N00967,Pathways of neurodegeneration,nt06466
+hsa04724,Glutamatergic synapse,Transport of calcium,N00970,Alzheimer disease,nt06460
+hsa04724,Glutamatergic synapse,Transport of calcium,N00970,Huntington disease,nt06461
+hsa04724,Glutamatergic synapse,Transport of calcium,N00970,Spinocerebellar ataxia,nt06462
+hsa04724,Glutamatergic synapse,Transport of calcium,N00970,Prion disease,nt06465
+hsa04724,Glutamatergic synapse,Transport of calcium,N00970,Pathways of neurodegeneration,nt06466
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01019,Parkinson disease,nt06463
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01019,Pathways of neurodegeneration,nt06466
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01021,Parkinson disease,nt06463
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01021,Pathways of neurodegeneration,nt06466
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01023,Parkinson disease,nt06463
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01023,Pathways of neurodegeneration,nt06466
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01025,Parkinson disease,nt06463
+hsa04120,Ubiquitin mediated proteolysis,Parkin-mediated ubiquitination,N01025,Pathways of neurodegeneration,nt06466
+hsa03050,Proteasome,26S proteasome-mediated protein degradation,N01029,Alzheimer disease,nt06460
+hsa03050,Proteasome,26S proteasome-mediated protein degradation,N01029,Parkinson disease,nt06463
+hsa03050,Proteasome,26S proteasome-mediated protein degradation,N01029,Amyotrophic lateral sclerosis,nt06464
+hsa03050,Proteasome,26S proteasome-mediated protein degradation,N01029,Huntington disease,nt06461
+hsa03050,Proteasome,26S proteasome-mediated protein degradation,N01029,Prion disease,nt06465
+hsa03050,Proteasome,26S proteasome-mediated protein degradation,N01029,Pathways of neurodegeneration,nt06466
+hsa05012,Parkinson disease,UCHL1-mediated hydrolysis,N01027,Parkinson disease,nt06463
+hsa05012,Parkinson disease,UCHL1-mediated hydrolysis,N01027,Pathways of neurodegeneration,nt06466
+hsa04141,Protein processing in endoplasmic reticulum,PERK-ATF4 signaling pathway,N01009,Unfolded protein response,nt06534
+hsa04141,Protein processing in endoplasmic reticulum,PERK-ATF4 signaling pathway,N01009,Alzheimer disease,nt06460
+hsa04141,Protein processing in endoplasmic reticulum,PERK-ATF4 signaling pathway,N01009,Parkinson disease,nt06463
+hsa04141,Protein processing in endoplasmic reticulum,PERK-ATF4 signaling pathway,N01009,Amyotrophic lateral sclerosis,nt06464
+hsa04141,Protein processing in endoplasmic reticulum,PERK-ATF4 signaling pathway,N01009,Prion disease,nt06465
+hsa04141,Protein processing in endoplasmic reticulum,PERK-ATF4 signaling pathway,N01009,Pathways of neurodegeneration,nt06466
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-XBP1 signaling pathway,N01011,Unfolded protein response,nt06534
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-XBP1 signaling pathway,N01011,Alzheimer disease,nt06460
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-XBP1 signaling pathway,N01011,Parkinson disease,nt06463
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-XBP1 signaling pathway,N01011,Amyotrophic lateral sclerosis,nt06464
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-XBP1 signaling pathway,N01011,Pathways of neurodegeneration,nt06466
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-JNK signaling pathway,N01013,Unfolded protein response,nt06534
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-JNK signaling pathway,N01013,Alzheimer disease,nt06460
+hsa04141,Protein processing in endoplasmic reticulum,IRE1a-JNK signaling pathway,N01013,Pathways of neurodegeneration,nt06466
+hsa04141,Protein processing in endoplasmic reticulum,ATF6-mediated transcription,N01015,Unfolded protein response,nt06534
+hsa04141,Protein processing in endoplasmic reticulum,ATF6-mediated transcription,N01015,Alzheimer disease,nt06460
+hsa04141,Protein processing in endoplasmic reticulum,ATF6-mediated transcription,N01015,Parkinson disease,nt06463
+hsa04141,Protein processing in endoplasmic reticulum,ATF6-mediated transcription,N01015,Amyotrophic lateral sclerosis,nt06464
+hsa04141,Protein processing in endoplasmic reticulum,ATF6-mediated transcription,N01015,Pathways of neurodegeneration,nt06466
+hsa04140,Autophagy - animal,C9orf72-mediated autophagy initiation,N01142,Autophagy,nt06532
+hsa04140,Autophagy - animal,C9orf72-mediated autophagy initiation,N01142,Amyotrophic lateral sclerosis,nt06464
+hsa04140,Autophagy - animal,C9orf72-mediated autophagy initiation,N01142,Pathways of neurodegeneration,nt06466
+hsa04140,Autophagy - animal,"Autophagy-vesicle nucleation/elongation/maturation, mTORC1-PI3KC3-C1",N00155,Autophagy,nt06532
+hsa04140,Autophagy - animal,"Autophagy-vesicle nucleation/elongation/maturation, mTORC1-PI3KC3-C1",N00155,Huntington disease,nt06461
+hsa04140,Autophagy - animal,"Autophagy-vesicle nucleation/elongation/maturation, mTORC1-PI3KC3-C1",N00155,Spinocerebellar ataxia,nt06462
+hsa04140,Autophagy - animal,"Autophagy-vesicle nucleation/elongation/maturation, mTORC1-PI3KC3-C1",N00155,Pathways of neurodegeneration,nt06466
+hsa04140,Autophagy - animal,"Autophagy-vesicle nucleation/elongation/maturation, mTORC1-PI3KC3-C1",N00155,Kaposi sarcoma-associated herpesvirus (KSHV),nt06164
+hsa04137,Mitophagy - animal,PINK1-Parkin-mediated MFN2 degradation,N01052,Parkinson disease,nt06463
+hsa04137,Mitophagy - animal,PINK1-Parkin-mediated MFN2 degradation,N01052,Pathways of neurodegeneration,nt06466
+hsa04137,Mitophagy - animal,PINK-Parkin-mediated autophagosome formation,N01137,Amyotrophic lateral sclerosis,nt06464
+hsa04137,Mitophagy - animal,PINK-Parkin-mediated autophagosome formation,N01137,Pathways of neurodegeneration,nt06466
+hsa04137,Mitophagy - animal,TBK1-mediated autophagosome formation,N01140,Mitophagy,nt06536
+hsa04137,Mitophagy - animal,TBK1-mediated autophagosome formation,N01140,Amyotrophic lateral sclerosis,nt06464
+hsa04137,Mitophagy - animal,TBK1-mediated autophagosome formation,N01140,Pathways of neurodegeneration,nt06466
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Apoptosis,nt06524
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Hepatocellular carcinoma,nt06263
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Apoptosis (cancer),nt06231
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Alzheimer disease,nt06460
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Pathways of neurodegeneration,nt06466
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Human immunodeficiency virus 1 (HIV-1),nt06161
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Hepatitis B virus (HBV),nt06162
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Hepatitis C virus (HCV),nt06163
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Herpes simplex virus 1 (HSV-1),nt06168
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Human cytomegalovirus (HCMV),nt06167
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Kaposi sarcoma-associated herpesvirus (KSHV),nt06164
+hsa04210,Apoptosis,Crosstalk between extrinsic and intrinsic apoptotic pathways,N00146,Epstein-Barr virus (EBV),nt06165
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Apoptosis,nt06524
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Colorectal cancer,nt06260
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Small cell lung cancer,nt06267
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Apoptosis (cancer),nt06231
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Parkinson disease,nt06463
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Amyotrophic lateral sclerosis,nt06464
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Pathways of neurodegeneration,nt06466
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Human immunodeficiency virus 1 (HIV-1),nt06161
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Influenza A virus (IAV),nt06170
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Herpes simplex virus 1 (HSV-1),nt06168
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Epstein-Barr virus (EBV),nt06165
+hsa04210,Apoptosis,Intrinsic apoptotic pathway,N00098,Human papillomavirus (HPV),nt06166
+hsa05010,Alzheimer disease,AGE-RAGE signaling pathway,N00994,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,AGE-RAGE signaling pathway,N00994,Pathways of neurodegeneration,nt06466
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex I,N00995,Alzheimer disease,nt06460
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex I,N00995,Parkinson disease,nt06463
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex I,N00995,Amyotrophic lateral sclerosis,nt06464
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex I,N00995,Pathways of neurodegeneration,nt06466
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex II,N00988,Mitochondrial ROS formation (cancer),nt06252
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex II,N00988,Alzheimer disease,nt06460
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex II,N00988,Parkinson disease,nt06463
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex II,N00988,Huntington disease,nt06461
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex II,N00988,Pathways of neurodegeneration,nt06466
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex III,N00990,Mitochondrial ROS formation (cancer),nt06252
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex III,N00990,Parkinson disease,nt06463
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex III,N00990,Huntington disease,nt06461
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex III,N00990,Pathways of neurodegeneration,nt06466
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex IV,N00998,Mitochondrial ROS formation (cancer),nt06252
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex IV,N00998,Alzheimer disease,nt06460
+hsa00190,Oxidative phosphorylation,Electron transfer in Complex IV,N00998,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Retrograde axonal transport,N00976,Parkinson disease,nt06463
+hsa05016,Huntington disease,Retrograde axonal transport,N00976,Amyotrophic lateral sclerosis,nt06464
+hsa05016,Huntington disease,Retrograde axonal transport,N00976,Huntington disease,nt06461
+hsa05016,Huntington disease,Retrograde axonal transport,N00976,Pathways of neurodegeneration,nt06466
+hsa05016,Huntington disease,Anterograde axonal transport,N00978,Alzheimer disease,nt06460
+hsa05010,Alzheimer disease,Anterograde axonal transport,N00978,Huntington disease,nt06461
+hsa05010,Alzheimer disease,Anterograde axonal transport,N00978,Prion disease,nt06465
+hsa05010,Alzheimer disease,Anterograde axonal transport,N00978,Pathways of neurodegeneration,nt06466

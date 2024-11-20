@@ -1,0 +1,531 @@
+药物,药物编号,药物的链接
+Fenobam,D04155,https://www.kegg.jp/entry/D04155
+Rimiducid,D11195,https://www.kegg.jp/entry/D11195
+Avagacestat,D09869,https://www.kegg.jp/entry/D09869
+Begacestat,D08869,https://www.kegg.jp/entry/D08869
+Crenigacestat,D11151,https://www.kegg.jp/entry/D11151
+Nirogacestat,DG03016,https://www.kegg.jp/entry/DG03016
+Osugacestat,D12235,https://www.kegg.jp/entry/D12235
+Semagacestat,D09377,https://www.kegg.jp/entry/D09377
+Tarenflurbil,D09010,https://www.kegg.jp/entry/D09010
+Aladorian,DG02040,https://www.kegg.jp/entry/DG02040
+Aceclidine,D02750,https://www.kegg.jp/entry/D02750
+Acetylcholine,DG01133,https://www.kegg.jp/entry/DG01133
+Aclatonium,DG01291,https://www.kegg.jp/entry/DG01291
+Aclidinium bromide,D08837,https://www.kegg.jp/entry/D08837
+Alvameline maleate,D02876,https://www.kegg.jp/entry/D02876
+Anisotropine methylbromide,D00232,https://www.kegg.jp/entry/D00232
+Atropine,DG00052,https://www.kegg.jp/entry/DG00052
+Atropine oxide,DG01243,https://www.kegg.jp/entry/DG01243
+Batefenterol,DG01627,https://www.kegg.jp/entry/DG01627
+Benapryzine hydrochloride,D03076,https://www.kegg.jp/entry/D03076
+Benzatropine,DG00859,https://www.kegg.jp/entry/DG00859
+Benzetimide,DG01301,https://www.kegg.jp/entry/DG01301
+Benzilone,D03088,https://www.kegg.jp/entry/D03088
+Bethanechol,DG00991,https://www.kegg.jp/entry/DG00991
+Bevonium,D01532,https://www.kegg.jp/entry/D01532
+Biperiden,DG00852,https://www.kegg.jp/entry/DG00852
+Blarcamesine,DG03048,https://www.kegg.jp/entry/DG03048
+Bornaprine,D07302,https://www.kegg.jp/entry/D07302
+Butropium bromide,D01491,https://www.kegg.jp/entry/D01491
+Butylscopolamine,D01451,https://www.kegg.jp/entry/D01451
+Carbachol,D00524,https://www.kegg.jp/entry/D00524
+Carpronium,DG01289,https://www.kegg.jp/entry/DG01289
+Chlorpromazine,DG00867,https://www.kegg.jp/entry/DG00867
+Choline alfoscerate,D07349,https://www.kegg.jp/entry/D07349
+Cimetropium bromide,D07099,https://www.kegg.jp/entry/D07099
+Clidinium bromide,D00716,https://www.kegg.jp/entry/D00716
+Cyclopentolate,DG01141,https://www.kegg.jp/entry/DG01141
+Darotropium bromide,D09402,https://www.kegg.jp/entry/D09402
+Dexetimide,DG00856,https://www.kegg.jp/entry/DG00856
+Dicycloverine,DG00032,https://www.kegg.jp/entry/DG00032
+Diethazine,DG01921,https://www.kegg.jp/entry/DG01921
+Difemerine,D07079,https://www.kegg.jp/entry/D07079
+Dihexyverine,DG00033,https://www.kegg.jp/entry/DG00033
+Diphenidol,DG02880,https://www.kegg.jp/entry/DG02880
+Diphenylpiperidinomethyldioxolan iodide,D01600,https://www.kegg.jp/entry/D01600
+Diponium bromide,D01463,https://www.kegg.jp/entry/D01463
+Elantrine,D03970,https://www.kegg.jp/entry/D03970
+Elucaine,D03979,https://www.kegg.jp/entry/D03979
+Esoxybutynin chloride,D04057,https://www.kegg.jp/entry/D04057
+Etomidoline,D01359,https://www.kegg.jp/entry/D01359
+Etybenzatropine,D04087,https://www.kegg.jp/entry/D04087
+Eucatropine hydrochloride,D04116,https://www.kegg.jp/entry/D04116
+Fenpiverinium,D07070,https://www.kegg.jp/entry/D07070
+Fentonium,D07951,https://www.kegg.jp/entry/D07951
+Flutropium bromide,D02417,https://www.kegg.jp/entry/D02417
+Glycopyrronium,DG02467,https://www.kegg.jp/entry/DG02467
+Heteronium bromide,D04434,https://www.kegg.jp/entry/D04434
+Homatropine,DG01142,https://www.kegg.jp/entry/DG01142
+Homatropine methylbromide,D02070,https://www.kegg.jp/entry/D02070
+Hyoscyamine,DG00053,https://www.kegg.jp/entry/DG00053
+Imidafenacin,D06273,https://www.kegg.jp/entry/D06273
+Ipratropium bromide,D02212,https://www.kegg.jp/entry/D02212
+Mazaticol,DG00857,https://www.kegg.jp/entry/DG00857
+Mebeverine,DG00030,https://www.kegg.jp/entry/DG00030
+Mepenzolate,DG00040,https://www.kegg.jp/entry/DG00040
+Methacholine,D04970,https://www.kegg.jp/entry/D04970
+Methantheline,DG00036,https://www.kegg.jp/entry/DG00036
+Methscopolamine bromide,D00715,https://www.kegg.jp/entry/D00715
+Methylatropine,DG01242,https://www.kegg.jp/entry/DG01242
+Methylbenactyzium bromide,D01315,https://www.kegg.jp/entry/D01315
+Methylscopolamine,D01976,https://www.kegg.jp/entry/D01976
+Metixene,DG00853,https://www.kegg.jp/entry/DG00853
+Metoquizine,D05012,https://www.kegg.jp/entry/D05012
+Milameline hydrochloride,D05035,https://www.kegg.jp/entry/D05035
+Otilonium bromide,D07083,https://www.kegg.jp/entry/D07083
+Oxapium iodide,D01815,https://www.kegg.jp/entry/D01815
+Oxitropium bromide,D01946,https://www.kegg.jp/entry/D01946
+Oxybutynin,DG00478,https://www.kegg.jp/entry/DG00478
+Oxyphencyclimine,DG00029,https://www.kegg.jp/entry/DG00029
+Oxyphenonium,D06877,https://www.kegg.jp/entry/D06877
+Parapenzolate bromide,D05360,https://www.kegg.jp/entry/D05360
+Pentapiperium methylsulfate,D05418,https://www.kegg.jp/entry/D05418
+Penthienate,D07081,https://www.kegg.jp/entry/D07081
+Phencarbamide,D05452,https://www.kegg.jp/entry/D05452
+Phenglutarimide,D07301,https://www.kegg.jp/entry/D07301
+Pipenzolate,D07084,https://www.kegg.jp/entry/D07084
+Piperidolate,DG00034,https://www.kegg.jp/entry/DG00034
+Pipethanate,DG01255,https://www.kegg.jp/entry/DG01255
+Pipethanate ethobromide,D01987,https://www.kegg.jp/entry/D01987
+Pirenzepine,DG00026,https://www.kegg.jp/entry/DG00026
+Piroheptine,DG01272,https://www.kegg.jp/entry/DG01272
+Poldine,D05535,https://www.kegg.jp/entry/D05535
+Pridinol,DG00774,https://www.kegg.jp/entry/DG00774
+Prifinium bromide,D01377,https://www.kegg.jp/entry/D01377
+Procyclidine,DG00854,https://www.kegg.jp/entry/DG00854
+Profenamine,DG00855,https://www.kegg.jp/entry/DG00855
+Propantheline,DG00035,https://www.kegg.jp/entry/DG00035
+Propenzolate hydrochloride,D05628,https://www.kegg.jp/entry/D05628
+Propiverine,DG00479,https://www.kegg.jp/entry/DG00479
+Rapacuronium bromide,D05703,https://www.kegg.jp/entry/D05703
+Rocuronium bromide,D00765,https://www.kegg.jp/entry/D00765
+Sabcomeline hydrochloride,D05779,https://www.kegg.jp/entry/D05779
+Scopolamine,DG00065,https://www.kegg.jp/entry/DG00065
+Talsaclidine fumarate,D06000,https://www.kegg.jp/entry/D06000
+Tazomeline citrate,D06015,https://www.kegg.jp/entry/D06015
+Telenzepine hydrochloride hydrate,D11098,https://www.kegg.jp/entry/D11098
+Tematropium methylsulfate,D06061,https://www.kegg.jp/entry/D06061
+Tiemonium,DG01254,https://www.kegg.jp/entry/DG01254
+Tiemonium iodide,D01201,https://www.kegg.jp/entry/D01201
+Timepidium bromide,DG00041,https://www.kegg.jp/entry/DG00041
+Tofenacin hydrochloride,D06175,https://www.kegg.jp/entry/D06175
+Toquizine,D06192,https://www.kegg.jp/entry/D06192
+Triampyzine sulfate,D06217,https://www.kegg.jp/entry/D06217
+Tridihexethyl,DG00037,https://www.kegg.jp/entry/DG00037
+Trihexyphenidyl,DG00851,https://www.kegg.jp/entry/DG00851
+Tropatepine,DG00858,https://www.kegg.jp/entry/DG00858
+Tropicamide,D00397,https://www.kegg.jp/entry/D00397
+Umeclidinium,DG01253,https://www.kegg.jp/entry/DG01253
+Umeclidinium bromide,D10181,https://www.kegg.jp/entry/D10181
+Valethamate,D01538,https://www.kegg.jp/entry/D01538
+Xanomeline,DG01300,https://www.kegg.jp/entry/DG01300
+Cevimeline,DG00993,https://www.kegg.jp/entry/DG00993
+Darifenacin,DG00482,https://www.kegg.jp/entry/DG00482
+Desfesoterodine,D10853,https://www.kegg.jp/entry/D10853
+Dexpanthenol,D00193,https://www.kegg.jp/entry/D00193
+Diphemanil,D06878,https://www.kegg.jp/entry/D06878
+Fesoterodine,DG00483,https://www.kegg.jp/entry/DG00483
+Glycopyrronium bromide,D00540,https://www.kegg.jp/entry/D00540
+Hexocyclium,DG00039,https://www.kegg.jp/entry/DG00039
+Isopropamide,DG00038,https://www.kegg.jp/entry/DG00038
+Navafenterol,DG03123,https://www.kegg.jp/entry/DG03123
+Pilocarpine,DG00992,https://www.kegg.jp/entry/DG00992
+Revefenacin,D10978,https://www.kegg.jp/entry/D10978
+Rociverine,D07078,https://www.kegg.jp/entry/D07078
+Sofpironium bromide,D10989,https://www.kegg.jp/entry/D10989
+Solifenacin,DG00481,https://www.kegg.jp/entry/DG00481
+Tiotropium bromide,D01929,https://www.kegg.jp/entry/D01929
+Tiquizium bromide,D01875,https://www.kegg.jp/entry/D01875
+Tolterodine,DG00480,https://www.kegg.jp/entry/DG00480
+Trospium,D01103,https://www.kegg.jp/entry/D01103
+Amlodipine,DG00322,https://www.kegg.jp/entry/DG00322
+Aranidipine,D01562,https://www.kegg.jp/entry/D01562
+Azelnidipine,D01145,https://www.kegg.jp/entry/D01145
+Barnidipine,DG00325,https://www.kegg.jp/entry/DG00325
+Belfosdil,D03067,https://www.kegg.jp/entry/D03067
+Benidipine,DG00327,https://www.kegg.jp/entry/DG00327
+Bepridil,DG00333,https://www.kegg.jp/entry/DG00333
+Bevantolol,D01369,https://www.kegg.jp/entry/D01369
+Cilnidipine,D01173,https://www.kegg.jp/entry/D01173
+Clentiazem maleate,D03536,https://www.kegg.jp/entry/D03536
+Clevidipine,D08892,https://www.kegg.jp/entry/D08892
+Darodipine,D03655,https://www.kegg.jp/entry/D03655
+Diltiazem,DG00331,https://www.kegg.jp/entry/DG00331
+Dronedarone,DG00207,https://www.kegg.jp/entry/DG00207
+Efonidipine,DG01382,https://www.kegg.jp/entry/DG01382
+Etripamil,D10932,https://www.kegg.jp/entry/D10932
+Felodipine,D00319,https://www.kegg.jp/entry/D00319
+Fendiline,DG00332,https://www.kegg.jp/entry/DG00332
+Flordipine,D04193,https://www.kegg.jp/entry/D04193
+Fostedil,D04260,https://www.kegg.jp/entry/D04260
+Gallopamil,DG00330,https://www.kegg.jp/entry/DG00330
+Isradipine,D00349,https://www.kegg.jp/entry/D00349
+Kirenidipine hydrochloride,D09789,https://www.kegg.jp/entry/D09789
+Lacidipine,D04657,https://www.kegg.jp/entry/D04657
+Lemildipine,D01151,https://www.kegg.jp/entry/D01151
+Lercanidipine,DG00326,https://www.kegg.jp/entry/DG00326
+Levamlodipine,DG03091,https://www.kegg.jp/entry/DG03091
+Levosemotiadil fumarate,D09833,https://www.kegg.jp/entry/D09833
+Manidipine,DG00324,https://www.kegg.jp/entry/DG00324
+Mibefradil,DG00328,https://www.kegg.jp/entry/DG00328
+Monatepil maleate,D01171,https://www.kegg.jp/entry/D01171
+Nicardipine,DG00323,https://www.kegg.jp/entry/DG00323
+Nifedipine,D00437,https://www.kegg.jp/entry/D00437
+Nilvadipine,D01908,https://www.kegg.jp/entry/D01908
+Nimodipine,D00438,https://www.kegg.jp/entry/D00438
+Nisoldipine,D00618,https://www.kegg.jp/entry/D00618
+Nitrendipine,D00629,https://www.kegg.jp/entry/D00629
+Paramethadione,D00495,https://www.kegg.jp/entry/D00495
+Perhexiline,DG00334,https://www.kegg.jp/entry/DG00334
+Tamolarizine hydrochloride,D11102,https://www.kegg.jp/entry/D11102
+Tiapamil hydrochloride,D06129,https://www.kegg.jp/entry/D06129
+Topiramate,D00537,https://www.kegg.jp/entry/D00537
+Vatanidipine hydrochloride,D01933,https://www.kegg.jp/entry/D01933
+Verapamil,DG00329,https://www.kegg.jp/entry/DG00329
+Pinaverium,D07094,https://www.kegg.jp/entry/D07094
+Acamprosate,DG00996,https://www.kegg.jp/entry/DG00996
+Amantadine,DG00860,https://www.kegg.jp/entry/DG00860
+Apimostinel,D11299,https://www.kegg.jp/entry/D11299
+Aptiganel hydrochloride,D02973,https://www.kegg.jp/entry/D02973
+Budipine,DG00866,https://www.kegg.jp/entry/DG00866
+Dalzanemdor,D12788,https://www.kegg.jp/entry/D12788
+Delucemine hydrochloride,D03679,https://www.kegg.jp/entry/D03679
+Dextromethorphan,DG01078,https://www.kegg.jp/entry/DG01078
+Dextrorphan hydrochloride,D03746,https://www.kegg.jp/entry/D03746
+Dizocilpine maleate,D03878,https://www.kegg.jp/entry/D03878
+Esketamine,DG01829,https://www.kegg.jp/entry/DG01829
+Esmethadone,DG01829,https://www.kegg.jp/entry/DG01829
+Dextromethadone,DG03176,https://www.kegg.jp/entry/DG03176
+Felbamate,D00536,https://www.kegg.jp/entry/D00536
+Gavestinel,D04308,https://www.kegg.jp/entry/D04308
+Ketamine,DG00796,https://www.kegg.jp/entry/DG00796
+Latrepirdine,DG01379,https://www.kegg.jp/entry/DG01379
+Levomethadone,DG01002,https://www.kegg.jp/entry/DG01002
+Licostinel,D04728,https://www.kegg.jp/entry/D04728
+Memantine,DG00986,https://www.kegg.jp/entry/DG00986
+Methadone,DG00999,https://www.kegg.jp/entry/DG00999
+Nevadistinel,D12553,https://www.kegg.jp/entry/D12553
+Orphenadrine,DG01252,https://www.kegg.jp/entry/DG01252
+Orphenadrine,D02599,https://www.kegg.jp/entry/D02599
+Orphenadrine,D00774,https://www.kegg.jp/entry/D00774
+Perzinfotel,D05447,https://www.kegg.jp/entry/D05447
+Phencyclidine hydrochloride,D05453,https://www.kegg.jp/entry/D05453
+Remacemide hydrochloride,D05714,https://www.kegg.jp/entry/D05714
+Riluzole,D00775,https://www.kegg.jp/entry/D00775
+Risevistinel,D12554,https://www.kegg.jp/entry/D12554
+Selfotel,D02410,https://www.kegg.jp/entry/D02410
+Tenocyclidine,D12702,https://www.kegg.jp/entry/D12702
+Tiletamine,DG01380,https://www.kegg.jp/entry/DG01380
+Troriluzole,DG03011,https://www.kegg.jp/entry/DG03011
+Besonprodil,D03100,https://www.kegg.jp/entry/D03100
+Neramexane mesylate,D05145,https://www.kegg.jp/entry/D05145
+Onfasprodil,D12787,https://www.kegg.jp/entry/D12787
+Rislenemdaz,D11340,https://www.kegg.jp/entry/D11340
+Traxoprodil mesylate,D06204,https://www.kegg.jp/entry/D06204
+Marizomib,D09640,https://www.kegg.jp/entry/D09640
+Bortezomib,DG03219,https://www.kegg.jp/entry/DG03219
+Carfilzomib,D08880,https://www.kegg.jp/entry/D08880
+Delanzomib,D10110,https://www.kegg.jp/entry/D10110
+Ixazomib,DG01269,https://www.kegg.jp/entry/DG01269
+Oprozomib,D10318,https://www.kegg.jp/entry/D10318
+Selonsertib,D10988,https://www.kegg.jp/entry/D10988
+Tanzisertib,D10168,https://www.kegg.jp/entry/D10168
+Adagrasib,D12301,https://www.kegg.jp/entry/D12301
+Divarasib,DG03271,https://www.kegg.jp/entry/DG03271
+Olomorasib,D12853,https://www.kegg.jp/entry/D12853
+Sotorasib,D12055,https://www.kegg.jp/entry/D12055
+Claturafenib,D12947,https://www.kegg.jp/entry/D12947
+Dabrafenib,DG00721,https://www.kegg.jp/entry/DG00721
+Encorafenib,D11053,https://www.kegg.jp/entry/D11053
+Lifirafenib,DG03009,https://www.kegg.jp/entry/DG03009
+Naporafenib,D12831,https://www.kegg.jp/entry/D12831
+Regorafenib,DG00720,https://www.kegg.jp/entry/DG00720
+Sorafenib,DG00713,https://www.kegg.jp/entry/DG00713
+Tovorafenib,D12291,https://www.kegg.jp/entry/D12291
+Vemurafenib,D09996,https://www.kegg.jp/entry/D09996
+Avutometinib,DG03255,https://www.kegg.jp/entry/DG03255
+Binimetinib,D10604,https://www.kegg.jp/entry/D10604
+Cobimetinib,DG01825,https://www.kegg.jp/entry/DG01825
+Mirdametinib,D11675,https://www.kegg.jp/entry/D11675
+Pimasertib,DG01410,https://www.kegg.jp/entry/DG01410
+Selumetinib,DG01414,https://www.kegg.jp/entry/DG01414
+Trametinib,DG00723,https://www.kegg.jp/entry/DG00723
+Zapnometinib,D12473,https://www.kegg.jp/entry/D12473
+Beroterkib,D12865,https://www.kegg.jp/entry/D12865
+Bezisterim,D12932,https://www.kegg.jp/entry/D12932
+Ravoxertinib,D11285,https://www.kegg.jp/entry/D11285
+Temuterkib,DG03154,https://www.kegg.jp/entry/DG03154
+Tizaterkib,DG03312,https://www.kegg.jp/entry/DG03312
+Ulixertinib,D11038,https://www.kegg.jp/entry/D11038
+Iguratimod,D01146,https://www.kegg.jp/entry/D01146
+Edasalonexent,D12181,https://www.kegg.jp/entry/D12181
+Adalimumab,D02597,https://www.kegg.jp/entry/D02597
+Adalimumab fosimdesonide,D12790,https://www.kegg.jp/entry/D12790
+Afelimomab,D07436,https://www.kegg.jp/entry/D07436
+Certolizumab pegol,D03441,https://www.kegg.jp/entry/D03441
+Etanercept,D00742,https://www.kegg.jp/entry/D00742
+Golimumab,D04358,https://www.kegg.jp/entry/D04358
+Infliximab,D02598,https://www.kegg.jp/entry/D02598
+Lenalidomide,DG00744,https://www.kegg.jp/entry/DG00744
+Lenercept,D04690,https://www.kegg.jp/entry/D04690
+Licaminlimab,D12420,https://www.kegg.jp/entry/D12420
+Nerelimomab,D05146,https://www.kegg.jp/entry/D05146
+Onercept,D05263,https://www.kegg.jp/entry/D05263
+Opinercept,D11703,https://www.kegg.jp/entry/D11703
+Ozoralizumab,D09944,https://www.kegg.jp/entry/D09944
+Pegsunercept,D05393,https://www.kegg.jp/entry/D05393
+Pirfenidone,D01583,https://www.kegg.jp/entry/D01583
+Placulumab,D10320,https://www.kegg.jp/entry/D10320
+Pomalidomide,D08976,https://www.kegg.jp/entry/D08976
+Thalidomide,D00754,https://www.kegg.jp/entry/D00754
+Olokizumab,D12487,https://www.kegg.jp/entry/D12487
+Siltuximab,D09669,https://www.kegg.jp/entry/D09669
+Sirukumab,D10080,https://www.kegg.jp/entry/D10080
+Vamikibart,D12929,https://www.kegg.jp/entry/D12929
+Ziltivekimab,D12807,https://www.kegg.jp/entry/D12807
+Cindunistat,DG01391,https://www.kegg.jp/entry/DG01391
+Pimagedine hydrochloride,D05479,https://www.kegg.jp/entry/D05479
+Tilarginine acetate,D09018,https://www.kegg.jp/entry/D09018
+Atracurium,DG00771,https://www.kegg.jp/entry/DG00771
+Bradanicline,DG01849,https://www.kegg.jp/entry/DG01849
+Cisatracurium,D00759,https://www.kegg.jp/entry/D00759
+Cytisinicline,D07770,https://www.kegg.jp/entry/D07770
+Dimethyltubocurarine,D07272,https://www.kegg.jp/entry/D07272
+Doxacurium chloride,D00760,https://www.kegg.jp/entry/D00760
+Encenicline,DG01852,https://www.kegg.jp/entry/DG01852
+Fazadinium bromide,D07273,https://www.kegg.jp/entry/D07273
+Hexamethonium bromide,D02204,https://www.kegg.jp/entry/D02204
+Lobeline,DG01287,https://www.kegg.jp/entry/DG01287
+Mecamylamine,DG00252,https://www.kegg.jp/entry/DG00252
+Mivacurium chloride,D00763,https://www.kegg.jp/entry/D00763
+Nicotine,DG00994,https://www.kegg.jp/entry/DG00994
+Pancuronium,DG00769,https://www.kegg.jp/entry/DG00769
+Pipecuronium bromide,D00764,https://www.kegg.jp/entry/D00764
+Tubocurarine,DG00767,https://www.kegg.jp/entry/DG00767
+Vecuronium,DG00770,https://www.kegg.jp/entry/DG00770
+Dinaciclib,D09604,https://www.kegg.jp/entry/D09604
+Bepranemab,D12228,https://www.kegg.jp/entry/D12228
+Etalanetug,D12848,https://www.kegg.jp/entry/D12848
+Flortaucipir,D11210,https://www.kegg.jp/entry/D11210
+Gosuranemab,D11293,https://www.kegg.jp/entry/D11293
+Hydromethylthionine,DG03014,https://www.kegg.jp/entry/DG03014
+Posdinemab,D12636,https://www.kegg.jp/entry/D12636
+Semorinemab,D11687,https://www.kegg.jp/entry/D11687
+Tilavonemab,D11840,https://www.kegg.jp/entry/D11840
+Zagotenemab,D11533,https://www.kegg.jp/entry/D11533
+Elraglusib,D12304,https://www.kegg.jp/entry/D12304
+Laduviglusib,D12196,https://www.kegg.jp/entry/D12196
+Anvatabart opadotin,D12583,https://www.kegg.jp/entry/D12583
+Avanbulin,D11681,https://www.kegg.jp/entry/D11681
+Batabulin,DG01412,https://www.kegg.jp/entry/DG01412
+Belantamab mafodotin,D11595,https://www.kegg.jp/entry/D11595
+Brentuximab vedotin,D09587,https://www.kegg.jp/entry/D09587
+Cabazitaxel,DG00695,https://www.kegg.jp/entry/DG00695
+Cantuzumab mertansine,D03364,https://www.kegg.jp/entry/D03364
+Cantuzumab ravtansine,D10454,https://www.kegg.jp/entry/D10454
+Cevipabulin,DG01413,https://www.kegg.jp/entry/DG01413
+Colchicine,D00570,https://www.kegg.jp/entry/D00570
+Denintuzumab mafodotin,D11232,https://www.kegg.jp/entry/D11232
+Docetaxel,DG00694,https://www.kegg.jp/entry/DG00694
+Enfortumab vedotin,D11525,https://www.kegg.jp/entry/D11525
+Eribulin,D08914,https://www.kegg.jp/entry/D08914
+Estramustine,DG00724,https://www.kegg.jp/entry/DG00724
+Farletuzumab ecteribulin,D12183,https://www.kegg.jp/entry/D12183
+Glembatumumab vedotin,D09912,https://www.kegg.jp/entry/D09912
+Indibulin,D10013,https://www.kegg.jp/entry/D10013
+Ixabepilone,D04645,https://www.kegg.jp/entry/D04645
+Lexibulin,D10073,https://www.kegg.jp/entry/D10073
+Lifastuzumab vedotin,D11238,https://www.kegg.jp/entry/D11238
+Lisavanbulin,D11494,https://www.kegg.jp/entry/D11494
+Lorvotuzumab mertansine,D09927,https://www.kegg.jp/entry/D09927
+Maytansine,D04864,https://www.kegg.jp/entry/D04864
+Mecbotamab vedotin,D12220,https://www.kegg.jp/entry/D12220
+Mirvetuximab soravtansine,D10954,https://www.kegg.jp/entry/D10954
+Mivobulin isethionate,D05062,https://www.kegg.jp/entry/D05062
+Oberotatug ravtansine,D12916,https://www.kegg.jp/entry/D12916
+Opadotin,D12582,https://www.kegg.jp/entry/D12582
+Ozuriftmab vedotin,D12210,https://www.kegg.jp/entry/D12210
+Paclitaxel,D00491,https://www.kegg.jp/entry/D00491
+Paclitaxel poliglumex,D05333,https://www.kegg.jp/entry/D05333
+Sabizabulin,DG03253,https://www.kegg.jp/entry/DG03253
+Soblidotin,D01919,https://www.kegg.jp/entry/D01919
+Soravtansine,D11228,https://www.kegg.jp/entry/D11228
+Taltobulin,D06001,https://www.kegg.jp/entry/D06001
+Tasidotin hydrochloride,D06009,https://www.kegg.jp/entry/D06009
+Tirbanibulin,DG03082,https://www.kegg.jp/entry/DG03082
+Tisotumab vedotin,D11814,https://www.kegg.jp/entry/D11814
+Trastuzumab emtansine,D09980,https://www.kegg.jp/entry/D09980
+Tusamitamab ravtansine,D12310,https://www.kegg.jp/entry/D12310
+Vedotin,D09691,https://www.kegg.jp/entry/D09691
+Verubulin,DG01411,https://www.kegg.jp/entry/DG01411
+Vinblastine,DG00689,https://www.kegg.jp/entry/DG00689
+Vincristine,DG00690,https://www.kegg.jp/entry/DG00690
+Vindesine,DG00691,https://www.kegg.jp/entry/DG00691
+Vinepidine sulfate,D06305,https://www.kegg.jp/entry/D06305
+Vinflunine,D09032,https://www.kegg.jp/entry/D09032
+Vinglycinate sulfate,D06306,https://www.kegg.jp/entry/D06306
+Vinleurosine sulfate,D06307,https://www.kegg.jp/entry/D06307
+Vinorelbine,DG00692,https://www.kegg.jp/entry/DG00692
+Vinrosidine sulfate,D06308,https://www.kegg.jp/entry/D06308
+Vinzolidine sulfate,D06309,https://www.kegg.jp/entry/D06309
+Candoxatril,D01070,https://www.kegg.jp/entry/D01070
+Candoxatrilat,D03349,https://www.kegg.jp/entry/D03349
+Ecadotril,D03929,https://www.kegg.jp/entry/D03929
+Omapatrilat,D01970,https://www.kegg.jp/entry/D01970
+Racecadotril,D08464,https://www.kegg.jp/entry/D08464
+Sacubitril,D10225,https://www.kegg.jp/entry/D10225
+Valsartan and sacubitril,D10226,https://www.kegg.jp/entry/D10226
+Cinpanemab,D11467,https://www.kegg.jp/entry/D11467
+Minzasolmin,D12796,https://www.kegg.jp/entry/D12796
+Prasinezumab,D11420,https://www.kegg.jp/entry/D11420
+Navitoclax,DG03204,https://www.kegg.jp/entry/DG03204
+Metirosine,D00762,https://www.kegg.jp/entry/D00762
+Befloxatone,D02563,https://www.kegg.jp/entry/D02563
+Brofaromine,D02560,https://www.kegg.jp/entry/D02560
+Caroxazone,D03409,https://www.kegg.jp/entry/D03409
+Cimoxatone,D02581,https://www.kegg.jp/entry/D02581
+Clorgiline,D03248,https://www.kegg.jp/entry/D03248
+Etryptamine acetate,D04092,https://www.kegg.jp/entry/D04092
+Iproclozide,D07338,https://www.kegg.jp/entry/D07338
+Iproniazide,DG00950,https://www.kegg.jp/entry/DG00950
+Isocarboxazid,D02580,https://www.kegg.jp/entry/D02580
+Ladostigil tartrate,D03239,https://www.kegg.jp/entry/D03239
+Minaprine,DG00954,https://www.kegg.jp/entry/DG00954
+Moclobemide,D02561,https://www.kegg.jp/entry/D02561
+Nialamide,D07337,https://www.kegg.jp/entry/D07337
+Pargyline,DG00264,https://www.kegg.jp/entry/DG00264
+Phenelzine,DG00948,https://www.kegg.jp/entry/DG00948
+Phentermine,DG00102,https://www.kegg.jp/entry/DG00102
+Pirlindole,DG01277,https://www.kegg.jp/entry/DG01277
+Safrazine hydrochloride,D01888,https://www.kegg.jp/entry/D01888
+Toloxatone,D02559,https://www.kegg.jp/entry/D02559
+Tranylcypromine,DG00949,https://www.kegg.jp/entry/DG00949
+Lazabemide,DG01259,https://www.kegg.jp/entry/DG01259
+Milacemide hydrochloride,D05033,https://www.kegg.jp/entry/D05033
+Mofegiline hydrochloride,D03733,https://www.kegg.jp/entry/D03733
+Rasagiline,DG00865,https://www.kegg.jp/entry/DG00865
+Safinamide,DG01260,https://www.kegg.jp/entry/DG01260
+Selegiline,DG00864,https://www.kegg.jp/entry/DG00864
+Sembragiline,D11224,https://www.kegg.jp/entry/D11224
+Amfetamine,DG00966,https://www.kegg.jp/entry/DG00966
+Amphetamine aspartate monohydrate,D11622,https://www.kegg.jp/entry/D11622
+Benzfetamine,DG01755,https://www.kegg.jp/entry/DG01755
+Deutetrabenazine,D10701,https://www.kegg.jp/entry/D10701
+Dexamfetamine,DG00967,https://www.kegg.jp/entry/DG00967
+Dextroamphetamine saccharate,D11623,https://www.kegg.jp/entry/D11623
+Isometheptene,D07097,https://www.kegg.jp/entry/D07097
+Metamfetamine,DG00968,https://www.kegg.jp/entry/DG00968
+Midomafetamine,DG03316,https://www.kegg.jp/entry/DG03316
+Reserpine,D00197,https://www.kegg.jp/entry/D00197
+Tedatioxetine,DG01311,https://www.kegg.jp/entry/DG01311
+Tetrabenazine,D08575,https://www.kegg.jp/entry/D08575
+Valbenazine,DG02115,https://www.kegg.jp/entry/DG02115
+Cenersen sodium,D08887,https://www.kegg.jp/entry/D08887
+Omaveloxolone,D10964,https://www.kegg.jp/entry/D10964
+Captodiame,D07316,https://www.kegg.jp/entry/D07316
+Fenfluramine,DG00103,https://www.kegg.jp/entry/DG00103
+Igmesine hydrochloride,D04502,https://www.kegg.jp/entry/D04502
+Opipramol,DG00930,https://www.kegg.jp/entry/DG00930
+Rimcazole hydrochloride,D02684,https://www.kegg.jp/entry/D02684
+Tiospirone hydrochloride,D02688,https://www.kegg.jp/entry/D02688
+Tofersen,D11811,https://www.kegg.jp/entry/D11811
+Lonidamine,D07257,https://www.kegg.jp/entry/D07257
+Obatoclax mesylate,D08954,https://www.kegg.jp/entry/D08954
+Oblimersen,DG00728,https://www.kegg.jp/entry/DG00728
+Sonrotoclax,D12883,https://www.kegg.jp/entry/D12883
+Venetoclax,D10679,https://www.kegg.jp/entry/D10679
+Afatinib,DG00717,https://www.kegg.jp/entry/DG00717
+Canertinib dihydrochloride,D03350,https://www.kegg.jp/entry/D03350
+Dacomitinib,DG01793,https://www.kegg.jp/entry/DG01793
+Neratinib,DG02303,https://www.kegg.jp/entry/DG02303
+Varlitinib,DG01357,https://www.kegg.jp/entry/DG01357
+Obefazimod,D12345,https://www.kegg.jp/entry/D12345
+Tominersen,DG03151,https://www.kegg.jp/entry/DG03151
+Ziconotide,DG00832,https://www.kegg.jp/entry/DG00832
+Fimepinostat,D11319,https://www.kegg.jp/entry/D11319
+Safingol,D05784,https://www.kegg.jp/entry/D05784
+Safingol hydrochloride,D05785,https://www.kegg.jp/entry/D05785
+Abexinostat,DG01402,https://www.kegg.jp/entry/DG01402
+Belinostat,D08870,https://www.kegg.jp/entry/D08870
+Bocodepsin,DG03260,https://www.kegg.jp/entry/DG03260
+Entinostat,D09338,https://www.kegg.jp/entry/D09338
+Givinostat,DG03284,https://www.kegg.jp/entry/DG03284
+Mocetinostat,DG01404,https://www.kegg.jp/entry/DG01404
+Nanatinostat,D11442,https://www.kegg.jp/entry/D11442
+Panobinostat,DG01403,https://www.kegg.jp/entry/DG01403
+Quisinostat,DG01407,https://www.kegg.jp/entry/DG01407
+Remetinostat,D10977,https://www.kegg.jp/entry/D10977
+Romidepsin,D06637,https://www.kegg.jp/entry/D06637
+Tacedinaline,D05988,https://www.kegg.jp/entry/D05988
+Tinostamustine,D11182,https://www.kegg.jp/entry/D11182
+Tucidinostat,D10993,https://www.kegg.jp/entry/D10993
+Vorinostat,D06320,https://www.kegg.jp/entry/D06320
+Midostaurin,D05029,https://www.kegg.jp/entry/D05029
+Tigilanol tiglate,D11191,https://www.kegg.jp/entry/D11191
+Amifampridine,D10228,https://www.kegg.jp/entry/D10228
+Fampridine,D04127,https://www.kegg.jp/entry/D04127
+Amiodarone,DG00204,https://www.kegg.jp/entry/DG00204
+Butamben,DG02875,https://www.kegg.jp/entry/DG02875
+Clofilium phosphate,D03547,https://www.kegg.jp/entry/D03547
+Nifekalant hydrochloride,D01856,https://www.kegg.jp/entry/D01856
+Vernakalant,D06665,https://www.kegg.jp/entry/D06665
+Alpelisib,D11011,https://www.kegg.jp/entry/D11011
+Apitolisib,D10543,https://www.kegg.jp/entry/D10543
+Bimiralisib,D11440,https://www.kegg.jp/entry/D11440
+Buparlisib,DG01823,https://www.kegg.jp/entry/DG01823
+Copanlisib,DG01926,https://www.kegg.jp/entry/DG01926
+Dactolisib,DG01826,https://www.kegg.jp/entry/DG01826
+Gedatolisib,D10635,https://www.kegg.jp/entry/D10635
+Inavolisib,D11942,https://www.kegg.jp/entry/D11942
+Leniolisib,DG02927,https://www.kegg.jp/entry/DG02927
+Omipalisib,D10718,https://www.kegg.jp/entry/D10718
+Paxalisib,D11869,https://www.kegg.jp/entry/D11869
+Pictilisib,D10189,https://www.kegg.jp/entry/D10189
+Risovalisib,DG03302,https://www.kegg.jp/entry/DG03302
+Samotolisib,D11501,https://www.kegg.jp/entry/D11501
+Taselisib,D11774,https://www.kegg.jp/entry/D11774
+Voxtalisib,D11727,https://www.kegg.jp/entry/D11727
+Amdizalisib,D12514,https://www.kegg.jp/entry/D12514
+Dezapelisib,D10924,https://www.kegg.jp/entry/D10924
+Duvelisib,DG03073,https://www.kegg.jp/entry/DG03073
+Idelalisib,D10560,https://www.kegg.jp/entry/D10560
+Nemiralisib,DG02995,https://www.kegg.jp/entry/DG02995
+Parsaclisib,DG03025,https://www.kegg.jp/entry/DG03025
+Umbralisib,DG02988,https://www.kegg.jp/entry/DG02988
+Zandelisib,D12009,https://www.kegg.jp/entry/D12009
+Afuresertib,DG01408,https://www.kegg.jp/entry/DG01408
+Capivasertib,D11371,https://www.kegg.jp/entry/D11371
+Ipatasertib,DG02851,https://www.kegg.jp/entry/DG02851
+Miransertib,DG03026,https://www.kegg.jp/entry/DG03026
+Triciribine phosphate,D06221,https://www.kegg.jp/entry/D06221
+Uprosertib,D10674,https://www.kegg.jp/entry/D10674
+Dasatinib,DG00714,https://www.kegg.jp/entry/DG00714
+Delcasertib,DG02094,https://www.kegg.jp/entry/DG02094
+Sotrastaurin,DG01406,https://www.kegg.jp/entry/DG01406
+Plitidepsin,D11032,https://www.kegg.jp/entry/D11032
+Brontictuzumab,D11229,https://www.kegg.jp/entry/D11229
+Aprinocarsen sodium,D02970,https://www.kegg.jp/entry/D02970
+Enzastaurin,DG03140,https://www.kegg.jp/entry/DG03140
+Apinocaltamide,D12910,https://www.kegg.jp/entry/D12910
+Ethosuximide,D00539,https://www.kegg.jp/entry/D00539
+Flunarizine,DG01006,https://www.kegg.jp/entry/DG01006
+Ismidenon,D12867,https://www.kegg.jp/entry/D12867
+Lomerizine hydrochloride,D02633,https://www.kegg.jp/entry/D02633
+Mesuximide,D00404,https://www.kegg.jp/entry/D00404
+Penfluridol,D02630,https://www.kegg.jp/entry/D02630
+Suvecaltamide,DG03155,https://www.kegg.jp/entry/DG03155
+Ulixacaltamide,DG03299,https://www.kegg.jp/entry/DG03299
+Valproic acid,DG00849,https://www.kegg.jp/entry/DG00849
+Zonisamide,D00538,https://www.kegg.jp/entry/D00538
+Everolimus,D02714,https://www.kegg.jp/entry/D02714
+Olcorolimus,D10076,https://www.kegg.jp/entry/D10076
+Onatasertib,D11663,https://www.kegg.jp/entry/D11663
+Ridaforolimus,D08900,https://www.kegg.jp/entry/D08900
+Sirolimus,D00753,https://www.kegg.jp/entry/D00753
+Temsirolimus,D06068,https://www.kegg.jp/entry/D06068
+Zotarolimus,D06669,https://www.kegg.jp/entry/D06669
+Conatumumab,D09329,https://www.kegg.jp/entry/D09329
+Drozitumab,D09888,https://www.kegg.jp/entry/D09888
+Lexatumumab,D06611,https://www.kegg.jp/entry/D06611
+Ozekibart,D12458,https://www.kegg.jp/entry/D12458

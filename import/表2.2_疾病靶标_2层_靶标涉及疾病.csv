@@ -1,0 +1,1939 @@
+基因名称,基因ID,涉及疾病,涉及疾病的编号
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+PSEN1,5663,Alzheimer disease,H00056
+PSEN1,5663,Frontotemporal lobar degeneration,H00078
+PSEN1,5663,Dilated cardiomyopathy,H00294
+PSEN1,5663,Acne inversa,H00681
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+PSEN1,5663,Alzheimer disease,H00056
+PSEN1,5663,Frontotemporal lobar degeneration,H00078
+PSEN1,5663,Dilated cardiomyopathy,H00294
+PSEN1,5663,Acne inversa,H00681
+PSEN2,5664,Alzheimer disease,H00056
+PSEN2,5664,Dilated cardiomyopathy,H00294
+RYR3,6263,Congenital myopathy,H01810
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+CHRM3,1131,Prune belly syndrome,H02129
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+CACNA1C,775,Long QT syndrome,H00720
+CACNA1C,775,Brugada syndrome,H00728
+CACNA1C,775,Neurodevelopmental disorder with movement abnormalities or hypotonia,H02397
+CACNA1D,776,Primary aldosteronism,H01603
+CACNA1D,776,Sinoatrial node dysfunction and deafness,H02636
+CACNA1F,778,Cone-rod dystrophy and cone dystrophy,H00481
+CACNA1F,778,Aland Island eye disease,H00690
+CACNA1F,778,Congenital stationary night blindness,H00787
+CACNA1S,779,Periodic paralysis,H00215
+CACNA1S,779,Hypokalemic periodic paralysis,H00746
+CACNA1S,779,Congenital myopathy,H01810
+CACNA1S,779,Malignant hyperthermia,H02646
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+GRIN1,2902,Early infantile epileptic encephalopathy,H00606
+GRIN1,2902,Autosomal dominant intellectual developmental disorder,H00773
+GRIN1,2902,Neurodevelopmental disorder with glutamatergic synapse dysfunction,H02705
+GRIN2A,2903,Landau-Kleffner syndrome,H01514
+GRIN2A,2903,"Rolandic epilepsy, mental retardation, and speech dyspraxia",H01827
+GRIN2B,2904,Early infantile epileptic encephalopathy,H00606
+GRIN2B,2904,Autosomal dominant intellectual developmental disorder,H00773
+GRIN2D,2906,Early infantile epileptic encephalopathy,H00606
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSEN1,5663,Alzheimer disease,H00056
+PSEN1,5663,Frontotemporal lobar degeneration,H00078
+PSEN1,5663,Dilated cardiomyopathy,H00294
+PSEN1,5663,Acne inversa,H00681
+EIF2AK3,9451,Wolcott-Rallison syndrome,H00766
+DDIT3,1649,Myxoid liposarcoma,H00049
+PSEN1,5663,Alzheimer disease,H00056
+PSEN1,5663,Frontotemporal lobar degeneration,H00078
+PSEN1,5663,Dilated cardiomyopathy,H00294
+PSEN1,5663,Acne inversa,H00681
+XBP1,7494,Bipolar disorder,H01653
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+MAPK10,5602,Lennox-Gastaut syndrome,H01813
+PSEN1,5663,Alzheimer disease,H00056
+PSEN1,5663,Frontotemporal lobar degeneration,H00078
+PSEN1,5663,Dilated cardiomyopathy,H00294
+PSEN1,5663,Acne inversa,H00681
+ATF6,22926,Achromatopsia,H00971
+DDIT3,1649,Myxoid liposarcoma,H00049
+XBP1,7494,Bipolar disorder,H01653
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+FAS,355,Chronic lymphocytic leukemia,H00005
+FAS,355,Hodgkin lymphoma,H00007
+FAS,355,Adult T-cell leukemia,H00009
+FAS,355,Esophageal cancer,H00017
+FAS,355,Autoimmune lymphoproliferative syndromes,H00108
+FAS,355,Mycosis fungoides,H01463
+FADD,8772,Disorders of innate immunity,H02525
+CASP8,841,Hepatocellular carcinoma,H00048
+CASP8,841,Autoimmune lymphoproliferative syndromes,H00108
+BAX,581,Colorectal cancer,H00020
+CYCS,54205,Thrombocytopenia (THC),H00978
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+HRAS,3265,Bladder cancer,H00022
+HRAS,3265,Penile cancer,H00025
+HRAS,3265,Cervical cancer,H00030
+HRAS,3265,Thyroid cancer,H00032
+HRAS,3265,Squamous cell carcinoma,H00040
+HRAS,3265,Noonan syndrome and related disorders,H00523
+HRAS,3265,Giant cell tumor of bone,H01470
+HRAS,3265,Merkel cell carcinoma,H01555
+HRAS,3265,Medullary thyroid cancer,H01592
+HRAS,3265,Angiosarcoma,H01666
+HRAS,3265,Costello syndrome,H01747
+HRAS,3265,Epidermal nevus,H02627
+HRAS,3265,Schimmelpenning-Feuerstein-Mims syndrome,H02628
+KRAS,3845,Acute myeloid leukemia,H00003
+KRAS,3845,Multiple myeloma,H00010
+KRAS,3845,Non-small cell lung cancer,H00014
+KRAS,3845,Oral cancer,H00016
+KRAS,3845,Gastric cancer,H00018
+KRAS,3845,Pancreatic cancer,H00019
+KRAS,3845,Colorectal cancer,H00020
+KRAS,3845,Endometrial cancer,H00026
+KRAS,3845,Ovarian cancer,H00027
+KRAS,3845,Cervical cancer,H00030
+KRAS,3845,Thyroid cancer,H00032
+KRAS,3845,Squamous cell carcinoma,H00040
+KRAS,3845,Kaposi sarcoma,H00041
+KRAS,3845,Cholangiocarcinoma,H00046
+KRAS,3845,Gallbladder cancer,H00047
+KRAS,3845,Syndromic craniosynostoses,H00458
+KRAS,3845,Noonan syndrome and related disorders,H00523
+KRAS,3845,Hepatic angiosarcoma,H01557
+KRAS,3845,Medullary thyroid cancer,H01592
+KRAS,3845,Angiosarcoma,H01666
+KRAS,3845,Noonan syndrome,H01738
+KRAS,3845,Cardiofaciocutaneous syndrome,H01745
+KRAS,3845,Myelodysplastic/myeloproliferative neoplasms,H02410
+KRAS,3845,Chronic myelomonocytic leukemia,H02411
+KRAS,3845,Atypical chronic myeloid leukemia,H02412
+KRAS,3845,Erdheim-Chester disease,H02425
+KRAS,3845,Juvenile myelomonocytic leukemia,H02541
+KRAS,3845,Schimmelpenning-Feuerstein-Mims syndrome,H02628
+NRAS,4893,Acute myeloid leukemia,H00003
+NRAS,4893,Multiple myeloma,H00010
+NRAS,4893,Oral cancer,H00016
+NRAS,4893,Gastric cancer,H00018
+NRAS,4893,Thyroid cancer,H00032
+NRAS,4893,Adrenal carcinoma,H00033
+NRAS,4893,Melanoma,H00038
+NRAS,4893,Autoimmune lymphoproliferative syndromes,H00108
+NRAS,4893,Noonan syndrome and related disorders,H00523
+NRAS,4893,Angiosarcoma,H01666
+NRAS,4893,Noonan syndrome,H01738
+NRAS,4893,Myelodysplastic/myeloproliferative neoplasms,H02410
+NRAS,4893,Chronic myelomonocytic leukemia,H02411
+NRAS,4893,Atypical chronic myeloid leukemia,H02412
+NRAS,4893,Erdheim-Chester disease,H02425
+NRAS,4893,Juvenile myelomonocytic leukemia,H02541
+NRAS,4893,Epidermal nevus,H02627
+NRAS,4893,Schimmelpenning-Feuerstein-Mims syndrome,H02628
+ARAF,369,Erdheim-Chester disease,H02425
+BRAF,673,Non-small cell lung cancer,H00014
+BRAF,673,Colorectal cancer,H00020
+BRAF,673,Thyroid cancer,H00032
+BRAF,673,Melanoma,H00038
+BRAF,673,Noonan syndrome and related disorders,H00523
+BRAF,673,Langerhans cell histiocytosis,H01512
+BRAF,673,Noonan syndrome,H01738
+BRAF,673,Cardiofaciocutaneous syndrome,H01745
+BRAF,673,Leopard syndrome,H01984
+BRAF,673,Erdheim-Chester disease,H02425
+RAF1,5894,Dilated cardiomyopathy,H00294
+RAF1,5894,Noonan syndrome and related disorders,H00523
+RAF1,5894,Noonan syndrome,H01738
+RAF1,5894,Leopard syndrome,H01984
+MAP2K1,5604,Noonan syndrome and related disorders,H00523
+MAP2K1,5604,Langerhans cell histiocytosis,H01512
+MAP2K1,5604,Cardiofaciocutaneous syndrome,H01745
+MAP2K1,5604,Erdheim-Chester disease,H02425
+MAP2K1,5604,Melorheostosis,H02631
+MAP2K2,5605,Noonan syndrome and related disorders,H00523
+MAP2K2,5605,Cardiofaciocutaneous syndrome,H01745
+MAP2K2,5605,Erdheim-Chester disease,H02425
+MAPK1,5594,Noonan syndrome,H01738
+NFKB1,4790,Common variable immunodeficiency,H00088
+RELA,5970,Chronic mucocutaneous ulceration,H02593
+TNF,7124,Asthma,H00079
+TNF,7124,Systemic lupus erythematosus,H00080
+TNF,7124,Allograft rejection,H00083
+TNF,7124,Graft-versus-host disease,H00084
+TNF,7124,Malaria,H00361
+IL6,3569,Graft-versus-host disease,H00084
+IL6,3569,Crohn disease,H00286
+IL6,3569,Rheumatoid arthritis,H00630
+IL6,3569,Castleman disease,H01479
+IL6,3569,Juvenile idiopathic arthritis,H01672
+NOS2,4843,Esophageal cancer,H00017
+NOS2,4843,Malaria,H00361
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+CHRNA7,1139,Chromosome 15q13.3 microdeletion syndrome,H01877
+CAPN1,823,Hereditary spastic paraplegia,H00266
+CDK5,1020,Lissencephaly,H00268
+MAPT,4137,Parkinson disease,H00057
+MAPT,4137,Amyotrophic lateral sclerosis (ALS),H00058
+MAPT,4137,Progressive supranuclear palsy,H00077
+MAPT,4137,Frontotemporal lobar degeneration,H00078
+ND1,4535,Leber hereditary optic atrophy,H00068
+ND1,4535,Mitochondrial complex I deficiency,H00473
+ND1,4535,MELAS syndrome,H01347
+ND1,4535,Leber hereditary optic neuropathy and dystonia,H01365
+ND2,4536,Leber hereditary optic atrophy,H00068
+ND2,4536,Mitochondrial complex I deficiency,H00473
+ND3,4537,Mitochondrial complex I deficiency,H00473
+ND3,4537,Kearns-Sayre syndrome,H01355
+ND3,4537,Leber hereditary optic neuropathy and dystonia,H01365
+ND4,4538,Leber hereditary optic atrophy,H00068
+ND4,4538,Mitochondrial complex I deficiency,H00473
+ND4,4538,Kearns-Sayre syndrome,H01355
+ND4,4538,Leber hereditary optic neuropathy and dystonia,H01365
+ND5,4540,Leber hereditary optic atrophy,H00068
+ND5,4540,Mitochondrial complex I deficiency,H00473
+ND5,4540,MELAS syndrome,H01347
+ND5,4540,Kearns-Sayre syndrome,H01355
+ND5,4540,Myoclonic Epilepsy and Ragged-Red Fiber Disease,H01356
+ND6,4541,Leber hereditary optic atrophy,H00068
+ND6,4541,Mitochondrial complex I deficiency,H00473
+ND6,4541,MELAS syndrome,H01347
+ND6,4541,Kearns-Sayre syndrome,H01355
+ND6,4541,Leber hereditary optic neuropathy and dystonia,H01365
+NDUFS1,4719,Mitochondrial complex I deficiency,H00473
+NDUFS2,4720,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Leigh syndrome,H01354
+NDUFS4,4724,Mitochondrial complex I deficiency,H00473
+NDUFS4,4724,Leigh syndrome,H01354
+NDUFS6,4726,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Leigh syndrome,H01354
+NDUFS8,4728,Mitochondrial complex I deficiency,H00473
+NDUFS8,4728,Leigh syndrome,H01354
+NDUFV1,4723,Mitochondrial complex I deficiency,H00473
+NDUFV2,4729,Mitochondrial complex I deficiency,H00473
+NDUFA1,4694,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Leigh syndrome,H01354
+NDUFA4,4697,Cytochrome c oxidase (COX) deficiency,H01368
+NDUFA6,4700,Mitochondrial complex I deficiency,H00473
+NDUFA8,4702,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Leigh syndrome,H01354
+NDUFA10,4705,Mitochondrial complex I deficiency,H00473
+NDUFA10,4705,Leigh syndrome,H01354
+NDUFA11,126328,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Leigh syndrome,H01354
+NDUFA13,51079,Mitochondrial complex I deficiency,H00473
+NDUFB3,4709,Mitochondrial complex I deficiency,H00473
+NDUFB7,4713,Mitochondrial complex I deficiency,H00473
+NDUFB8,4714,Mitochondrial complex I deficiency,H00473
+NDUFB9,4715,Mitochondrial complex I deficiency,H00473
+NDUFB10,4716,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Microphthalmia with linear skin defects syndrome,H01904
+NDUFC2,4718,Mitochondrial complex I deficiency,H00473
+SDHA,6389,Dilated cardiomyopathy,H00294
+SDHA,6389,Diseases of the tricarboxylic acid cycle,H01022
+SDHA,6389,Leigh syndrome,H01354
+SDHA,6389,Mitochondrial complex II deficiency,H02005
+SDHA,6389,Paraganglioma,H02538
+SDHB,6390,Cowden syndrome,H01222
+SDHB,6390,Malignant paraganglioma,H01510
+SDHB,6390,Gastrotintestinal stromal tumor,H01591
+SDHB,6390,Mitochondrial complex II deficiency,H02005
+SDHB,6390,Paraganglioma,H02538
+SDHC,6391,Malignant paraganglioma,H01510
+SDHC,6391,Gastrotintestinal stromal tumor,H01591
+SDHC,6391,Paraganglioma,H02538
+SDHD,6392,Carcinoid,H00034
+SDHD,6392,Cowden syndrome,H01222
+SDHD,6392,Malignant paraganglioma,H01510
+SDHD,6392,Mitochondrial complex II deficiency,H02005
+SDHD,6392,Paraganglioma,H02538
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+COX3,4514,Leber hereditary optic atrophy,H00068
+COX3,4514,Kearns-Sayre syndrome,H01355
+COX3,4514,Cytochrome c oxidase (COX) deficiency,H01368
+COX1,4512,Leber hereditary optic atrophy,H00068
+COX1,4512,Cytochrome c oxidase (COX) deficiency,H01368
+COX2,4513,Cytochrome c oxidase (COX) deficiency,H01368
+COX4I1,1327,Cytochrome c oxidase (COX) deficiency,H01368
+COX4I2,84701,"Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis",H00920
+COX5A,9377,Cytochrome c oxidase (COX) deficiency,H01368
+COX6A1,1337,Charcot-Marie-Tooth disease,H00264
+COX6A2,1339,Cytochrome c oxidase (COX) deficiency,H01368
+COX6B1,1340,Cytochrome c oxidase (COX) deficiency,H01368
+COX7B,1349,Microphthalmia with linear skin defects syndrome,H01904
+COX8A,1351,Cytochrome c oxidase (COX) deficiency,H01368
+PSEN1,5663,Alzheimer disease,H00056
+PSEN1,5663,Frontotemporal lobar degeneration,H00078
+PSEN1,5663,Dilated cardiomyopathy,H00294
+PSEN1,5663,Acne inversa,H00681
+KIF5A,3798,Amyotrophic lateral sclerosis (ALS),H00058
+KIF5A,3798,Hereditary spastic paraplegia,H00266
+KIF5C,3800,Complex cortical dysplasia with other brain malformations,H01881
+KLC2,64837,"Spastic paraplegia, optic atrophy, and neuropathy",H02114
+APP,351,Alzheimer disease,H00056
+APP,351,Cerebral amyloid angiopathy,H01185
+CHRNA7,1139,Chromosome 15q13.3 microdeletion syndrome,H01877
+CAPN1,823,Hereditary spastic paraplegia,H00266
+CDK5,1020,Lissencephaly,H00268
+MAPT,4137,Parkinson disease,H00057
+MAPT,4137,Amyotrophic lateral sclerosis (ALS),H00058
+MAPT,4137,Progressive supranuclear palsy,H00077
+MAPT,4137,Frontotemporal lobar degeneration,H00078
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+MAPT,4137,Parkinson disease,H00057
+MAPT,4137,Amyotrophic lateral sclerosis (ALS),H00058
+MAPT,4137,Progressive supranuclear palsy,H00077
+MAPT,4137,Frontotemporal lobar degeneration,H00078
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+CDK5,1020,Lissencephaly,H00268
+MAPT,4137,Parkinson disease,H00057
+MAPT,4137,Amyotrophic lateral sclerosis (ALS),H00058
+MAPT,4137,Progressive supranuclear palsy,H00077
+MAPT,4137,Frontotemporal lobar degeneration,H00078
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+MME,4311,Spinocerebellar ataxia (SCA),H00063
+MME,4311,Charcot-Marie-Tooth disease,H00264
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+PLCG1,5335,"Immune dysregulation, autoimmunity, and autoinflammation",H02792
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+UCHL1,7345,Parkinson disease,H00057
+UCHL1,7345,Hereditary spastic paraplegia,H00266
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+EIF2AK3,9451,Wolcott-Rallison syndrome,H00766
+DDIT3,1649,Myxoid liposarcoma,H00049
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+XBP1,7494,Bipolar disorder,H01653
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+ATF6,22926,Achromatopsia,H00971
+DDIT3,1649,Myxoid liposarcoma,H00049
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+MFN2,9927,Charcot-Marie-Tooth disease,H00264
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+MFN2,9927,Charcot-Marie-Tooth disease,H00264
+PARK7,11315,Parkinson disease,H00057
+PARK7,11315,Parkinsonian syndrome,H01600
+BAX,581,Colorectal cancer,H00020
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+BAX,581,Colorectal cancer,H00020
+CYCS,54205,Thrombocytopenia (THC),H00978
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+BAX,581,Colorectal cancer,H00020
+CYCS,54205,Thrombocytopenia (THC),H00978
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+HTRA2,27429,Parkinson disease,H00057
+HTRA2,27429,3-Methylglutaconic aciduria,H00754
+CYCS,54205,Thrombocytopenia (THC),H00978
+LRRK2,120892,Parkinson disease,H00057
+LRRK2,120892,Lewy body dementia (LBD),H00066
+LRRK2,120892,Parkinsonian syndrome,H01600
+CYCS,54205,Thrombocytopenia (THC),H00978
+PARK7,11315,Parkinson disease,H00057
+PARK7,11315,Parkinsonian syndrome,H01600
+DAXX,1616,Pancreatic neuroendocrine tumor,H00045
+MAPK10,5602,Lennox-Gastaut syndrome,H01813
+MAPK10,5602,Lennox-Gastaut syndrome,H01813
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+TH,7054,Dopa-responsive dystonia,H02557
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+MAOA,4128,Brunner syndrome,H00548
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+SLC18A2,6571,Infantile-onset parkinsonism-dystonia,H02676
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+ND1,4535,Leber hereditary optic atrophy,H00068
+ND1,4535,Mitochondrial complex I deficiency,H00473
+ND1,4535,MELAS syndrome,H01347
+ND1,4535,Leber hereditary optic neuropathy and dystonia,H01365
+ND2,4536,Leber hereditary optic atrophy,H00068
+ND2,4536,Mitochondrial complex I deficiency,H00473
+ND3,4537,Mitochondrial complex I deficiency,H00473
+ND3,4537,Kearns-Sayre syndrome,H01355
+ND3,4537,Leber hereditary optic neuropathy and dystonia,H01365
+ND4,4538,Leber hereditary optic atrophy,H00068
+ND4,4538,Mitochondrial complex I deficiency,H00473
+ND4,4538,Kearns-Sayre syndrome,H01355
+ND4,4538,Leber hereditary optic neuropathy and dystonia,H01365
+ND5,4540,Leber hereditary optic atrophy,H00068
+ND5,4540,Mitochondrial complex I deficiency,H00473
+ND5,4540,MELAS syndrome,H01347
+ND5,4540,Kearns-Sayre syndrome,H01355
+ND5,4540,Myoclonic Epilepsy and Ragged-Red Fiber Disease,H01356
+ND6,4541,Leber hereditary optic atrophy,H00068
+ND6,4541,Mitochondrial complex I deficiency,H00473
+ND6,4541,MELAS syndrome,H01347
+ND6,4541,Kearns-Sayre syndrome,H01355
+ND6,4541,Leber hereditary optic neuropathy and dystonia,H01365
+NDUFS1,4719,Mitochondrial complex I deficiency,H00473
+NDUFS2,4720,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Leigh syndrome,H01354
+NDUFS4,4724,Mitochondrial complex I deficiency,H00473
+NDUFS4,4724,Leigh syndrome,H01354
+NDUFS6,4726,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Leigh syndrome,H01354
+NDUFS8,4728,Mitochondrial complex I deficiency,H00473
+NDUFS8,4728,Leigh syndrome,H01354
+NDUFV1,4723,Mitochondrial complex I deficiency,H00473
+NDUFV2,4729,Mitochondrial complex I deficiency,H00473
+NDUFA1,4694,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Leigh syndrome,H01354
+NDUFA4,4697,Cytochrome c oxidase (COX) deficiency,H01368
+NDUFA6,4700,Mitochondrial complex I deficiency,H00473
+NDUFA8,4702,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Leigh syndrome,H01354
+NDUFA10,4705,Mitochondrial complex I deficiency,H00473
+NDUFA10,4705,Leigh syndrome,H01354
+NDUFA11,126328,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Leigh syndrome,H01354
+NDUFA13,51079,Mitochondrial complex I deficiency,H00473
+NDUFB3,4709,Mitochondrial complex I deficiency,H00473
+NDUFB7,4713,Mitochondrial complex I deficiency,H00473
+NDUFB8,4714,Mitochondrial complex I deficiency,H00473
+NDUFB9,4715,Mitochondrial complex I deficiency,H00473
+NDUFB10,4716,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Microphthalmia with linear skin defects syndrome,H01904
+NDUFC2,4718,Mitochondrial complex I deficiency,H00473
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+ND1,4535,Leber hereditary optic atrophy,H00068
+ND1,4535,Mitochondrial complex I deficiency,H00473
+ND1,4535,MELAS syndrome,H01347
+ND1,4535,Leber hereditary optic neuropathy and dystonia,H01365
+ND2,4536,Leber hereditary optic atrophy,H00068
+ND2,4536,Mitochondrial complex I deficiency,H00473
+ND3,4537,Mitochondrial complex I deficiency,H00473
+ND3,4537,Kearns-Sayre syndrome,H01355
+ND3,4537,Leber hereditary optic neuropathy and dystonia,H01365
+ND4,4538,Leber hereditary optic atrophy,H00068
+ND4,4538,Mitochondrial complex I deficiency,H00473
+ND4,4538,Kearns-Sayre syndrome,H01355
+ND4,4538,Leber hereditary optic neuropathy and dystonia,H01365
+ND5,4540,Leber hereditary optic atrophy,H00068
+ND5,4540,Mitochondrial complex I deficiency,H00473
+ND5,4540,MELAS syndrome,H01347
+ND5,4540,Kearns-Sayre syndrome,H01355
+ND5,4540,Myoclonic Epilepsy and Ragged-Red Fiber Disease,H01356
+ND6,4541,Leber hereditary optic atrophy,H00068
+ND6,4541,Mitochondrial complex I deficiency,H00473
+ND6,4541,MELAS syndrome,H01347
+ND6,4541,Kearns-Sayre syndrome,H01355
+ND6,4541,Leber hereditary optic neuropathy and dystonia,H01365
+NDUFS1,4719,Mitochondrial complex I deficiency,H00473
+NDUFS2,4720,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Leigh syndrome,H01354
+NDUFS4,4724,Mitochondrial complex I deficiency,H00473
+NDUFS4,4724,Leigh syndrome,H01354
+NDUFS6,4726,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Leigh syndrome,H01354
+NDUFS8,4728,Mitochondrial complex I deficiency,H00473
+NDUFS8,4728,Leigh syndrome,H01354
+NDUFV1,4723,Mitochondrial complex I deficiency,H00473
+NDUFV2,4729,Mitochondrial complex I deficiency,H00473
+NDUFA1,4694,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Leigh syndrome,H01354
+NDUFA4,4697,Cytochrome c oxidase (COX) deficiency,H01368
+NDUFA6,4700,Mitochondrial complex I deficiency,H00473
+NDUFA8,4702,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Leigh syndrome,H01354
+NDUFA10,4705,Mitochondrial complex I deficiency,H00473
+NDUFA10,4705,Leigh syndrome,H01354
+NDUFA11,126328,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Leigh syndrome,H01354
+NDUFA13,51079,Mitochondrial complex I deficiency,H00473
+NDUFB3,4709,Mitochondrial complex I deficiency,H00473
+NDUFB7,4713,Mitochondrial complex I deficiency,H00473
+NDUFB8,4714,Mitochondrial complex I deficiency,H00473
+NDUFB9,4715,Mitochondrial complex I deficiency,H00473
+NDUFB10,4716,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Microphthalmia with linear skin defects syndrome,H01904
+NDUFC2,4718,Mitochondrial complex I deficiency,H00473
+ND1,4535,Leber hereditary optic atrophy,H00068
+ND1,4535,Mitochondrial complex I deficiency,H00473
+ND1,4535,MELAS syndrome,H01347
+ND1,4535,Leber hereditary optic neuropathy and dystonia,H01365
+ND2,4536,Leber hereditary optic atrophy,H00068
+ND2,4536,Mitochondrial complex I deficiency,H00473
+ND3,4537,Mitochondrial complex I deficiency,H00473
+ND3,4537,Kearns-Sayre syndrome,H01355
+ND3,4537,Leber hereditary optic neuropathy and dystonia,H01365
+ND4,4538,Leber hereditary optic atrophy,H00068
+ND4,4538,Mitochondrial complex I deficiency,H00473
+ND4,4538,Kearns-Sayre syndrome,H01355
+ND4,4538,Leber hereditary optic neuropathy and dystonia,H01365
+ND5,4540,Leber hereditary optic atrophy,H00068
+ND5,4540,Mitochondrial complex I deficiency,H00473
+ND5,4540,MELAS syndrome,H01347
+ND5,4540,Kearns-Sayre syndrome,H01355
+ND5,4540,Myoclonic Epilepsy and Ragged-Red Fiber Disease,H01356
+ND6,4541,Leber hereditary optic atrophy,H00068
+ND6,4541,Mitochondrial complex I deficiency,H00473
+ND6,4541,MELAS syndrome,H01347
+ND6,4541,Kearns-Sayre syndrome,H01355
+ND6,4541,Leber hereditary optic neuropathy and dystonia,H01365
+NDUFS1,4719,Mitochondrial complex I deficiency,H00473
+NDUFS2,4720,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Leigh syndrome,H01354
+NDUFS4,4724,Mitochondrial complex I deficiency,H00473
+NDUFS4,4724,Leigh syndrome,H01354
+NDUFS6,4726,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Leigh syndrome,H01354
+NDUFS8,4728,Mitochondrial complex I deficiency,H00473
+NDUFS8,4728,Leigh syndrome,H01354
+NDUFV1,4723,Mitochondrial complex I deficiency,H00473
+NDUFV2,4729,Mitochondrial complex I deficiency,H00473
+NDUFA1,4694,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Leigh syndrome,H01354
+NDUFA4,4697,Cytochrome c oxidase (COX) deficiency,H01368
+NDUFA6,4700,Mitochondrial complex I deficiency,H00473
+NDUFA8,4702,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Leigh syndrome,H01354
+NDUFA10,4705,Mitochondrial complex I deficiency,H00473
+NDUFA10,4705,Leigh syndrome,H01354
+NDUFA11,126328,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Leigh syndrome,H01354
+NDUFA13,51079,Mitochondrial complex I deficiency,H00473
+NDUFB3,4709,Mitochondrial complex I deficiency,H00473
+NDUFB7,4713,Mitochondrial complex I deficiency,H00473
+NDUFB8,4714,Mitochondrial complex I deficiency,H00473
+NDUFB9,4715,Mitochondrial complex I deficiency,H00473
+NDUFB10,4716,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Microphthalmia with linear skin defects syndrome,H01904
+NDUFC2,4718,Mitochondrial complex I deficiency,H00473
+ND1,4535,Leber hereditary optic atrophy,H00068
+ND1,4535,Mitochondrial complex I deficiency,H00473
+ND1,4535,MELAS syndrome,H01347
+ND1,4535,Leber hereditary optic neuropathy and dystonia,H01365
+ND2,4536,Leber hereditary optic atrophy,H00068
+ND2,4536,Mitochondrial complex I deficiency,H00473
+ND3,4537,Mitochondrial complex I deficiency,H00473
+ND3,4537,Kearns-Sayre syndrome,H01355
+ND3,4537,Leber hereditary optic neuropathy and dystonia,H01365
+ND4,4538,Leber hereditary optic atrophy,H00068
+ND4,4538,Mitochondrial complex I deficiency,H00473
+ND4,4538,Kearns-Sayre syndrome,H01355
+ND4,4538,Leber hereditary optic neuropathy and dystonia,H01365
+ND5,4540,Leber hereditary optic atrophy,H00068
+ND5,4540,Mitochondrial complex I deficiency,H00473
+ND5,4540,MELAS syndrome,H01347
+ND5,4540,Kearns-Sayre syndrome,H01355
+ND5,4540,Myoclonic Epilepsy and Ragged-Red Fiber Disease,H01356
+ND6,4541,Leber hereditary optic atrophy,H00068
+ND6,4541,Mitochondrial complex I deficiency,H00473
+ND6,4541,MELAS syndrome,H01347
+ND6,4541,Kearns-Sayre syndrome,H01355
+ND6,4541,Leber hereditary optic neuropathy and dystonia,H01365
+NDUFS1,4719,Mitochondrial complex I deficiency,H00473
+NDUFS2,4720,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Leigh syndrome,H01354
+NDUFS4,4724,Mitochondrial complex I deficiency,H00473
+NDUFS4,4724,Leigh syndrome,H01354
+NDUFS6,4726,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Leigh syndrome,H01354
+NDUFS8,4728,Mitochondrial complex I deficiency,H00473
+NDUFS8,4728,Leigh syndrome,H01354
+NDUFV1,4723,Mitochondrial complex I deficiency,H00473
+NDUFV2,4729,Mitochondrial complex I deficiency,H00473
+NDUFA1,4694,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Leigh syndrome,H01354
+NDUFA4,4697,Cytochrome c oxidase (COX) deficiency,H01368
+NDUFA6,4700,Mitochondrial complex I deficiency,H00473
+NDUFA8,4702,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Leigh syndrome,H01354
+NDUFA10,4705,Mitochondrial complex I deficiency,H00473
+NDUFA10,4705,Leigh syndrome,H01354
+NDUFA11,126328,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Leigh syndrome,H01354
+NDUFA13,51079,Mitochondrial complex I deficiency,H00473
+NDUFB3,4709,Mitochondrial complex I deficiency,H00473
+NDUFB7,4713,Mitochondrial complex I deficiency,H00473
+NDUFB8,4714,Mitochondrial complex I deficiency,H00473
+NDUFB9,4715,Mitochondrial complex I deficiency,H00473
+NDUFB10,4716,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Microphthalmia with linear skin defects syndrome,H01904
+NDUFC2,4718,Mitochondrial complex I deficiency,H00473
+SDHA,6389,Dilated cardiomyopathy,H00294
+SDHA,6389,Diseases of the tricarboxylic acid cycle,H01022
+SDHA,6389,Leigh syndrome,H01354
+SDHA,6389,Mitochondrial complex II deficiency,H02005
+SDHA,6389,Paraganglioma,H02538
+SDHB,6390,Cowden syndrome,H01222
+SDHB,6390,Malignant paraganglioma,H01510
+SDHB,6390,Gastrotintestinal stromal tumor,H01591
+SDHB,6390,Mitochondrial complex II deficiency,H02005
+SDHB,6390,Paraganglioma,H02538
+SDHC,6391,Malignant paraganglioma,H01510
+SDHC,6391,Gastrotintestinal stromal tumor,H01591
+SDHC,6391,Paraganglioma,H02538
+SDHD,6392,Carcinoid,H00034
+SDHD,6392,Cowden syndrome,H01222
+SDHD,6392,Malignant paraganglioma,H01510
+SDHD,6392,Mitochondrial complex II deficiency,H02005
+SDHD,6392,Paraganglioma,H02538
+UQCRFS1,7386,Mitochondrial complex III deficiency,H02086
+CYTB,4519,Leber hereditary optic atrophy,H00068
+CYTB,4519,MELAS syndrome,H01347
+CYTB,4519,Kearns-Sayre syndrome,H01355
+CYC1,1537,Mitochondrial complex III deficiency,H02086
+UQCRC2,7385,Mitochondrial complex III deficiency,H02086
+UQCRH,7388,Mitochondrial complex III deficiency,H02086
+UQCRB,7381,Mitochondrial complex III deficiency,H02086
+UQCRQ,27089,Mitochondrial complex III deficiency,H02086
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+KIF5A,3798,Amyotrophic lateral sclerosis (ALS),H00058
+KIF5A,3798,Hereditary spastic paraplegia,H00266
+KIF5C,3800,Complex cortical dysplasia with other brain malformations,H01881
+KLC2,64837,"Spastic paraplegia, optic atrophy, and neuropathy",H02114
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+PARK7,11315,Parkinson disease,H00057
+PARK7,11315,Parkinsonian syndrome,H01600
+TP53,7157,Chronic myeloid leukemia,H00004
+TP53,7157,Chronic lymphocytic leukemia,H00005
+TP53,7157,Hairy cell leukemia,H00006
+TP53,7157,Burkitt lymphoma,H00008
+TP53,7157,Adult T-cell leukemia,H00009
+TP53,7157,Multiple myeloma,H00010
+TP53,7157,Small cell lung cancer,H00013
+TP53,7157,Non-small cell lung cancer,H00014
+TP53,7157,Malignant pleural mesothelioma,H00015
+TP53,7157,Oral cancer,H00016
+TP53,7157,Esophageal cancer,H00017
+TP53,7157,Gastric cancer,H00018
+TP53,7157,Pancreatic cancer,H00019
+TP53,7157,Colorectal cancer,H00020
+TP53,7157,Bladder cancer,H00022
+TP53,7157,Penile cancer,H00025
+TP53,7157,Endometrial cancer,H00026
+TP53,7157,Ovarian cancer,H00027
+TP53,7157,Choriocarcinoma,H00028
+TP53,7157,Vulvar cancer,H00029
+TP53,7157,Breast cancer,H00031
+TP53,7157,Thyroid cancer,H00032
+TP53,7157,Adrenal carcinoma,H00033
+TP53,7157,Osteosarcoma,H00036
+TP53,7157,Melanoma,H00038
+TP53,7157,Basal cell carcinoma,H00039
+TP53,7157,Squamous cell carcinoma,H00040
+TP53,7157,Kaposi sarcoma,H00041
+TP53,7157,Glioma,H00042
+TP53,7157,Cancer of the anal canal,H00044
+TP53,7157,Cholangiocarcinoma,H00046
+TP53,7157,Gallbladder cancer,H00047
+TP53,7157,Hepatocellular carcinoma,H00048
+TP53,7157,Laryngeal cancer,H00055
+TP53,7157,Li-Fraumeni syndrome,H00881
+TP53,7157,Choroid plexus papilloma,H01007
+TP53,7157,Mycosis fungoides,H01463
+TP53,7157,Mantle cell lymphoma,H01464
+TP53,7157,Giant cell tumor of bone,H01470
+TP53,7157,Fallopian tube cancer,H01554
+TP53,7157,Merkel cell carcinoma,H01555
+TP53,7157,Hepatic angiosarcoma,H01557
+TP53,7157,Oropharyngeal cancer,H01559
+TP53,7157,Medulloblastoma,H01667
+TP53,7157,Nephroblastoma,H02301
+TP53,7157,Chronic myelomonocytic leukemia,H02411
+TP53,7157,"Diffuse large B-cell lymphoma, not otherwise specified",H02434
+TP53,7157,Bone marrow failure syndrome,H02529
+PARK7,11315,Parkinson disease,H00057
+PARK7,11315,Parkinsonian syndrome,H01600
+NFE2L2,4780,Hepatocellular carcinoma,H00048
+SIGMAR1,10280,Amyotrophic lateral sclerosis (ALS),H00058
+SIGMAR1,10280,Distal hereditary motor neuropathies,H00856
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+SOD1,6647,Amyotrophic lateral sclerosis (ALS),H00058
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+VCP,7415,Charcot-Marie-Tooth disease,H00264
+VCP,7415,Inclusion body myopathy with Paget disease of bone and frontotemporal dementia,H02031
+VCP,7415,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+UBQLN2,29978,Amyotrophic lateral sclerosis (ALS),H00058
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+SOD1,6647,Amyotrophic lateral sclerosis (ALS),H00058
+EIF2AK3,9451,Wolcott-Rallison syndrome,H00766
+DDIT3,1649,Myxoid liposarcoma,H00049
+SOD1,6647,Amyotrophic lateral sclerosis (ALS),H00058
+XBP1,7494,Bipolar disorder,H01653
+VAPB,9217,Amyotrophic lateral sclerosis (ALS),H00058
+VAPB,9217,Spinal muscular atrophy,H00455
+ATF6,22926,Achromatopsia,H00971
+SOD1,6647,Amyotrophic lateral sclerosis (ALS),H00058
+ATF6,22926,Achromatopsia,H00971
+DDIT3,1649,Myxoid liposarcoma,H00049
+C9orf72,203228,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+RB1CC1,9821,Breast cancer,H00031
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+CISD2,493856,Wolfram syndrome,H00854
+HK1,3098,Retinitis pigmentosa,H00527
+HK1,3098,Anemia due to disorders of glycolytic enzymes,H00664
+HK1,3098,Neurodevelopmental disorder with structural brain abnormalities,H02470
+OPTN,10133,Amyotrophic lateral sclerosis (ALS),H00058
+OPTN,10133,Primary open angle glaucoma,H00612
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+CISD2,493856,Wolfram syndrome,H00854
+HK1,3098,Retinitis pigmentosa,H00527
+HK1,3098,Anemia due to disorders of glycolytic enzymes,H00664
+HK1,3098,Neurodevelopmental disorder with structural brain abnormalities,H02470
+SQSTM1,8878,Paget disease of bone,H00437
+SQSTM1,8878,Distal myopathy,H00594
+SQSTM1,8878,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+SQSTM1,8878,Distal myopathy with rimmed vacuoles,H02586
+TBK1,29110,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+TBK1,29110,Infection-induced acute encephalopathy,H02536
+SQSTM1,8878,Paget disease of bone,H00437
+SQSTM1,8878,Distal myopathy,H00594
+SQSTM1,8878,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+SQSTM1,8878,Distal myopathy with rimmed vacuoles,H02586
+OPTN,10133,Amyotrophic lateral sclerosis (ALS),H00058
+OPTN,10133,Primary open angle glaucoma,H00612
+SOD1,6647,Amyotrophic lateral sclerosis (ALS),H00058
+BCL2,596,Chronic lymphocytic leukemia,H00005
+BCL2,596,Small cell lung cancer,H00013
+BCL2,596,Choriocarcinoma,H00028
+BCL2,596,Cervical cancer,H00030
+BCL2,596,Kaposi sarcoma,H00041
+BCL2,596,Nasopharyngeal cancer,H00054
+BCL2,596,Follicular lymphoma,H01613
+BCL2,596,"Diffuse large B-cell lymphoma, not otherwise specified",H02434
+BAX,581,Colorectal cancer,H00020
+CYCS,54205,Thrombocytopenia (THC),H00978
+NRG1,3084,Schizophrenia,H01649
+ERBB4,2066,Amyotrophic lateral sclerosis (ALS),H00058
+TARDBP,23435,Amyotrophic lateral sclerosis (ALS),H00058
+ND1,4535,Leber hereditary optic atrophy,H00068
+ND1,4535,Mitochondrial complex I deficiency,H00473
+ND1,4535,MELAS syndrome,H01347
+ND1,4535,Leber hereditary optic neuropathy and dystonia,H01365
+ND2,4536,Leber hereditary optic atrophy,H00068
+ND2,4536,Mitochondrial complex I deficiency,H00473
+ND3,4537,Mitochondrial complex I deficiency,H00473
+ND3,4537,Kearns-Sayre syndrome,H01355
+ND3,4537,Leber hereditary optic neuropathy and dystonia,H01365
+ND4,4538,Leber hereditary optic atrophy,H00068
+ND4,4538,Mitochondrial complex I deficiency,H00473
+ND4,4538,Kearns-Sayre syndrome,H01355
+ND4,4538,Leber hereditary optic neuropathy and dystonia,H01365
+ND5,4540,Leber hereditary optic atrophy,H00068
+ND5,4540,Mitochondrial complex I deficiency,H00473
+ND5,4540,MELAS syndrome,H01347
+ND5,4540,Kearns-Sayre syndrome,H01355
+ND5,4540,Myoclonic Epilepsy and Ragged-Red Fiber Disease,H01356
+ND6,4541,Leber hereditary optic atrophy,H00068
+ND6,4541,Mitochondrial complex I deficiency,H00473
+ND6,4541,MELAS syndrome,H01347
+ND6,4541,Kearns-Sayre syndrome,H01355
+ND6,4541,Leber hereditary optic neuropathy and dystonia,H01365
+NDUFS1,4719,Mitochondrial complex I deficiency,H00473
+NDUFS2,4720,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Leigh syndrome,H01354
+NDUFS4,4724,Mitochondrial complex I deficiency,H00473
+NDUFS4,4724,Leigh syndrome,H01354
+NDUFS6,4726,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Leigh syndrome,H01354
+NDUFS8,4728,Mitochondrial complex I deficiency,H00473
+NDUFS8,4728,Leigh syndrome,H01354
+NDUFV1,4723,Mitochondrial complex I deficiency,H00473
+NDUFV2,4729,Mitochondrial complex I deficiency,H00473
+NDUFA1,4694,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Leigh syndrome,H01354
+NDUFA4,4697,Cytochrome c oxidase (COX) deficiency,H01368
+NDUFA6,4700,Mitochondrial complex I deficiency,H00473
+NDUFA8,4702,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Leigh syndrome,H01354
+NDUFA10,4705,Mitochondrial complex I deficiency,H00473
+NDUFA10,4705,Leigh syndrome,H01354
+NDUFA11,126328,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Leigh syndrome,H01354
+NDUFA13,51079,Mitochondrial complex I deficiency,H00473
+NDUFB3,4709,Mitochondrial complex I deficiency,H00473
+NDUFB7,4713,Mitochondrial complex I deficiency,H00473
+NDUFB8,4714,Mitochondrial complex I deficiency,H00473
+NDUFB9,4715,Mitochondrial complex I deficiency,H00473
+NDUFB10,4716,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Microphthalmia with linear skin defects syndrome,H01904
+NDUFC2,4718,Mitochondrial complex I deficiency,H00473
+SOD1,6647,Amyotrophic lateral sclerosis (ALS),H00058
+DCTN1,1639,Amyotrophic lateral sclerosis (ALS),H00058
+DCTN1,1639,Distal hereditary motor neuropathies,H00856
+DCTN1,1639,Perry syndrome,H00879
+DNAH1,25981,Primary ciliary dyskinesia,H00564
+DNAH1,25981,Spermatogenic failure,H01282
+DNAH2,146754,Spermatogenic failure,H01282
+DNAH5,1767,Primary ciliary dyskinesia,H00564
+DNAH7,56171,Primary ciliary dyskinesia,H00564
+DNAH8,1769,Spermatogenic failure,H01282
+DNAH9,1770,Primary ciliary dyskinesia,H00564
+DNAH10,196385,Spermatogenic failure,H01282
+DNAH11,8701,Primary ciliary dyskinesia,H00564
+DNAH17,8632,Spermatogenic failure,H01282
+DNAI1,27019,Primary ciliary dyskinesia,H00564
+DNAI2,64446,Primary ciliary dyskinesia,H00564
+DNALI1,7802,Spermatogenic failure,H01282
+DNAL1,83544,Primary ciliary dyskinesia,H00564
+DNAL4,10126,Congenital mirror movements,H01287
+DCTN1,1639,Amyotrophic lateral sclerosis (ALS),H00058
+DCTN1,1639,Distal hereditary motor neuropathies,H00856
+DCTN1,1639,Perry syndrome,H00879
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+DCTN1,1639,Amyotrophic lateral sclerosis (ALS),H00058
+DCTN1,1639,Distal hereditary motor neuropathies,H00856
+DCTN1,1639,Perry syndrome,H00879
+DNAH1,25981,Primary ciliary dyskinesia,H00564
+DNAH1,25981,Spermatogenic failure,H01282
+DNAH2,146754,Spermatogenic failure,H01282
+DNAH5,1767,Primary ciliary dyskinesia,H00564
+DNAH7,56171,Primary ciliary dyskinesia,H00564
+DNAH8,1769,Spermatogenic failure,H01282
+DNAH9,1770,Primary ciliary dyskinesia,H00564
+DNAH10,196385,Spermatogenic failure,H01282
+DNAH11,8701,Primary ciliary dyskinesia,H00564
+DNAH17,8632,Spermatogenic failure,H01282
+DNAI1,27019,Primary ciliary dyskinesia,H00564
+DNAI2,64446,Primary ciliary dyskinesia,H00564
+DNALI1,7802,Spermatogenic failure,H01282
+DNAL1,83544,Primary ciliary dyskinesia,H00564
+DNAL4,10126,Congenital mirror movements,H01287
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+ACTB,60,Thrombocytopenia (THC),H00978
+ACTB,60,Juvenile-onset dystonia,H01255
+ACTB,60,Baraitser-Winter syndrome,H02023
+ACTB,60,Becker nevus syndrome,H02716
+ACTG1,71,"Deafness, autosomal dominant",H00604
+ACTG1,71,Bilateral sudden sensorineural hearing loss,H01705
+ACTG1,71,Baraitser-Winter syndrome,H02023
+PFN1,5216,Amyotrophic lateral sclerosis (ALS),H00058
+TARDBP,23435,Amyotrophic lateral sclerosis (ALS),H00058
+FUS,2521,Amyotrophic lateral sclerosis (ALS),H00058
+FUS,2521,Essential tremor,H01577
+NUP133,55746,Nephrotic syndrome,H01657
+NUP133,55746,Galloway-Mowat syndrome,H01722
+NUP107,57122,Ovarian dysgenesis,H00599
+NUP107,57122,Nephrotic syndrome,H01657
+NUP107,57122,Galloway-Mowat syndrome,H01722
+NUP37,79023,Primary microcephaly,H00269
+NUP160,23279,Nephrotic syndrome,H01657
+NUP85,79902,Nephrotic syndrome,H01657
+NUP62,23636,Infantile bilateral striatal necrosis,H01177
+NUP54,53371,Primary dystonia,H00831
+NUP93,9688,Nephrotic syndrome,H01657
+NUP205,23165,Nephrotic syndrome,H01657
+NUP155,9631,Atrial fibrillation,H00731
+NUP214,8021,Acute myeloid leukemia,H00003
+NUP214,8021,Infection-induced acute encephalopathy,H02536
+NUP88,4927,Fetal akinesia deformation sequence,H00987
+RANBP2,5903,Infection-induced acute encephalopathy,H02536
+GLE1,2733,Lethal congenital contractural syndrome,H00865
+GLE1,2733,Congenital arthrogryposis with anterior horn cell disease,H01030
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+HTT,3064,Huntington disease,H00059
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+HTT,3064,Huntington disease,H00059
+STX1A,6804,Williams-Beuren syndrome,H01439
+CACNA1B,774,Neurodevelopmental disorder with movement abnormalities or hypotonia,H02397
+HTT,3064,Huntington disease,H00059
+DLG4,1742,Autosomal dominant intellectual developmental disorder,H00773
+GRIN1,2902,Early infantile epileptic encephalopathy,H00606
+GRIN1,2902,Autosomal dominant intellectual developmental disorder,H00773
+GRIN1,2902,Neurodevelopmental disorder with glutamatergic synapse dysfunction,H02705
+GRIN2A,2903,Landau-Kleffner syndrome,H01514
+GRIN2A,2903,"Rolandic epilepsy, mental retardation, and speech dyspraxia",H01827
+GRIN2B,2904,Early infantile epileptic encephalopathy,H00606
+GRIN2B,2904,Autosomal dominant intellectual developmental disorder,H00773
+GRIN2D,2906,Early infantile epileptic encephalopathy,H00606
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+HTT,3064,Huntington disease,H00059
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+HTT,3064,Huntington disease,H00059
+HTT,3064,Huntington disease,H00059
+IFT57,55081,Oral-facial-digital syndrome,H00454
+CASP8,841,Hepatocellular carcinoma,H00048
+CASP8,841,Autoimmune lymphoproliferative syndromes,H00108
+HTT,3064,Huntington disease,H00059
+MAPK10,5602,Lennox-Gastaut syndrome,H01813
+HTT,3064,Huntington disease,H00059
+SDHA,6389,Dilated cardiomyopathy,H00294
+SDHA,6389,Diseases of the tricarboxylic acid cycle,H01022
+SDHA,6389,Leigh syndrome,H01354
+SDHA,6389,Mitochondrial complex II deficiency,H02005
+SDHA,6389,Paraganglioma,H02538
+SDHB,6390,Cowden syndrome,H01222
+SDHB,6390,Malignant paraganglioma,H01510
+SDHB,6390,Gastrotintestinal stromal tumor,H01591
+SDHB,6390,Mitochondrial complex II deficiency,H02005
+SDHB,6390,Paraganglioma,H02538
+SDHC,6391,Malignant paraganglioma,H01510
+SDHC,6391,Gastrotintestinal stromal tumor,H01591
+SDHC,6391,Paraganglioma,H02538
+SDHD,6392,Carcinoid,H00034
+SDHD,6392,Cowden syndrome,H01222
+SDHD,6392,Malignant paraganglioma,H01510
+SDHD,6392,Mitochondrial complex II deficiency,H02005
+SDHD,6392,Paraganglioma,H02538
+HTT,3064,Huntington disease,H00059
+UQCRFS1,7386,Mitochondrial complex III deficiency,H02086
+CYTB,4519,Leber hereditary optic atrophy,H00068
+CYTB,4519,MELAS syndrome,H01347
+CYTB,4519,Kearns-Sayre syndrome,H01355
+CYC1,1537,Mitochondrial complex III deficiency,H02086
+UQCRC2,7385,Mitochondrial complex III deficiency,H02086
+UQCRH,7388,Mitochondrial complex III deficiency,H02086
+UQCRB,7381,Mitochondrial complex III deficiency,H02086
+UQCRQ,27089,Mitochondrial complex III deficiency,H02086
+HTT,3064,Huntington disease,H00059
+DCTN1,1639,Amyotrophic lateral sclerosis (ALS),H00058
+DCTN1,1639,Distal hereditary motor neuropathies,H00856
+DCTN1,1639,Perry syndrome,H00879
+DNAH1,25981,Primary ciliary dyskinesia,H00564
+DNAH1,25981,Spermatogenic failure,H01282
+DNAH2,146754,Spermatogenic failure,H01282
+DNAH5,1767,Primary ciliary dyskinesia,H00564
+DNAH7,56171,Primary ciliary dyskinesia,H00564
+DNAH8,1769,Spermatogenic failure,H01282
+DNAH9,1770,Primary ciliary dyskinesia,H00564
+DNAH10,196385,Spermatogenic failure,H01282
+DNAH11,8701,Primary ciliary dyskinesia,H00564
+DNAH17,8632,Spermatogenic failure,H01282
+DNAI1,27019,Primary ciliary dyskinesia,H00564
+DNAI2,64446,Primary ciliary dyskinesia,H00564
+DNALI1,7802,Spermatogenic failure,H01282
+DNAL1,83544,Primary ciliary dyskinesia,H00564
+DNAL4,10126,Congenital mirror movements,H01287
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+HTT,3064,Huntington disease,H00059
+MAPK10,5602,Lennox-Gastaut syndrome,H01813
+KIF5A,3798,Amyotrophic lateral sclerosis (ALS),H00058
+KIF5A,3798,Hereditary spastic paraplegia,H00266
+KIF5C,3800,Complex cortical dysplasia with other brain malformations,H01881
+KLC2,64837,"Spastic paraplegia, optic atrophy, and neuropathy",H02114
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+HTT,3064,Huntington disease,H00059
+REST,5978,"Deafness, autosomal dominant",H00604
+REST,5978,Hereditary gingival fibromatosis,H01250
+REST,5978,Nephroblastoma,H02301
+SIN3A,25942,Chromosome 15q24 microdeletion syndrome,H01861
+HTT,3064,Huntington disease,H00059
+CREB3L3,84699,Hypertriglyceridemia,H01637
+CREB3L1,90993,Osteogenesis imperfecta,H00506
+TAF4,6874,Autosomal dominant intellectual developmental disorder,H00773
+HTT,3064,Huntington disease,H00059
+TP53,7157,Chronic myeloid leukemia,H00004
+TP53,7157,Chronic lymphocytic leukemia,H00005
+TP53,7157,Hairy cell leukemia,H00006
+TP53,7157,Burkitt lymphoma,H00008
+TP53,7157,Adult T-cell leukemia,H00009
+TP53,7157,Multiple myeloma,H00010
+TP53,7157,Small cell lung cancer,H00013
+TP53,7157,Non-small cell lung cancer,H00014
+TP53,7157,Malignant pleural mesothelioma,H00015
+TP53,7157,Oral cancer,H00016
+TP53,7157,Esophageal cancer,H00017
+TP53,7157,Gastric cancer,H00018
+TP53,7157,Pancreatic cancer,H00019
+TP53,7157,Colorectal cancer,H00020
+TP53,7157,Bladder cancer,H00022
+TP53,7157,Penile cancer,H00025
+TP53,7157,Endometrial cancer,H00026
+TP53,7157,Ovarian cancer,H00027
+TP53,7157,Choriocarcinoma,H00028
+TP53,7157,Vulvar cancer,H00029
+TP53,7157,Breast cancer,H00031
+TP53,7157,Thyroid cancer,H00032
+TP53,7157,Adrenal carcinoma,H00033
+TP53,7157,Osteosarcoma,H00036
+TP53,7157,Melanoma,H00038
+TP53,7157,Basal cell carcinoma,H00039
+TP53,7157,Squamous cell carcinoma,H00040
+TP53,7157,Kaposi sarcoma,H00041
+TP53,7157,Glioma,H00042
+TP53,7157,Cancer of the anal canal,H00044
+TP53,7157,Cholangiocarcinoma,H00046
+TP53,7157,Gallbladder cancer,H00047
+TP53,7157,Hepatocellular carcinoma,H00048
+TP53,7157,Laryngeal cancer,H00055
+TP53,7157,Li-Fraumeni syndrome,H00881
+TP53,7157,Choroid plexus papilloma,H01007
+TP53,7157,Mycosis fungoides,H01463
+TP53,7157,Mantle cell lymphoma,H01464
+TP53,7157,Giant cell tumor of bone,H01470
+TP53,7157,Fallopian tube cancer,H01554
+TP53,7157,Merkel cell carcinoma,H01555
+TP53,7157,Hepatic angiosarcoma,H01557
+TP53,7157,Oropharyngeal cancer,H01559
+TP53,7157,Medulloblastoma,H01667
+TP53,7157,Nephroblastoma,H02301
+TP53,7157,Chronic myelomonocytic leukemia,H02411
+TP53,7157,"Diffuse large B-cell lymphoma, not otherwise specified",H02434
+TP53,7157,Bone marrow failure syndrome,H02529
+BAX,581,Colorectal cancer,H00020
+SPTBN2,6712,Spinocerebellar ataxia (SCA),H00063
+SPTBN2,6712,Autosomal recessive spinocerebellar ataxias,H01891
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+PRKCG,5582,Spinocerebellar ataxia (SCA),H00063
+TRPC3,7222,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+PRKCG,5582,Spinocerebellar ataxia (SCA),H00063
+TRPC3,7222,Spinocerebellar ataxia (SCA),H00063
+TRPC3,7222,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ATXN2,6311,Spinocerebellar ataxia (SCA),H00063
+ATXN3,4287,Spinocerebellar ataxia (SCA),H00063
+ATXN3,4287,Machado-Joseph disease,H01478
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+CACNA1A,773,Spinocerebellar ataxia (SCA),H00063
+CACNA1A,773,Early infantile epileptic encephalopathy,H00606
+CACNA1A,773,Episodic ataxias,H00749
+CACNA1A,773,Hemiplegic migraine,H00775
+CACNA1A,773,Hemiconvulsion-hemiplegia-epilepsy syndrome,H01808
+CACNA1A,773,Spinocerebellar ataxia (SCA),H00063
+CACNA1A,773,Early infantile epileptic encephalopathy,H00606
+CACNA1A,773,Episodic ataxias,H00749
+CACNA1A,773,Hemiplegic migraine,H00775
+CACNA1A,773,Hemiconvulsion-hemiplegia-epilepsy syndrome,H01808
+PDYN,5173,Spinocerebellar ataxia (SCA),H00063
+GRIN1,2902,Early infantile epileptic encephalopathy,H00606
+GRIN1,2902,Autosomal dominant intellectual developmental disorder,H00773
+GRIN1,2902,Neurodevelopmental disorder with glutamatergic synapse dysfunction,H02705
+GRIN2A,2903,Landau-Kleffner syndrome,H01514
+GRIN2A,2903,"Rolandic epilepsy, mental retardation, and speech dyspraxia",H01827
+GRIN2B,2904,Early infantile epileptic encephalopathy,H00606
+GRIN2B,2904,Autosomal dominant intellectual developmental disorder,H00773
+GRIN2D,2906,Early infantile epileptic encephalopathy,H00606
+KCNC3,3748,Spinocerebellar ataxia (SCA),H00063
+KCND3,3752,Spinocerebellar ataxia (SCA),H00063
+KCND3,3752,Brugada syndrome,H00728
+ATXN3,4287,Spinocerebellar ataxia (SCA),H00063
+ATXN3,4287,Machado-Joseph disease,H01478
+RELN,5649,Lissencephaly,H00268
+RELN,5649,Familial epilepsy temporal lobe (ETL),H00809
+VLDLR,7436,"Cerebellar ataxia, mental retardation (MR), and dysequilibrium syndrome (CAMRQ)",H01204
+DAB1,1600,Spinocerebellar ataxia (SCA),H00063
+PIK3CA,5290,Non-small cell lung cancer,H00014
+PIK3CA,5290,Gastric cancer,H00018
+PIK3CA,5290,Colorectal cancer,H00020
+PIK3CA,5290,Ovarian cancer,H00027
+PIK3CA,5290,Breast cancer,H00031
+PIK3CA,5290,Hepatocellular carcinoma,H00048
+PIK3CA,5290,Cerebral cavernous malformation,H00534
+PIK3CA,5290,Cowden syndrome,H01222
+PIK3CA,5290,"Congenital lipomatous overgrowth, vascular malformations, and epidermal nevi",H01912
+PIK3CA,5290,Desmoplastic small round cell tumor,H01985
+PIK3CA,5290,Megalencephaly-capillary malformation syndrome,H02153
+PIK3CA,5290,CLAPO syndrome,H02297
+PIK3CA,5290,Epidermal nevus,H02627
+PIK3CA,5290,Macrodactyly,H02647
+PIK3CD,5293,Activated PI3K-delta syndrome,H01387
+PIK3CD,5293,Roifman-Chitayat syndrome,H02585
+AKT1,207,Ovarian cancer,H00027
+AKT1,207,Cowden syndrome,H01222
+AKT1,207,Meningioma,H01556
+AKT1,207,Schizophrenia,H01649
+AKT1,207,Proteus syndrome,H02119
+AKT2,208,Ovarian cancer,H00027
+AKT2,208,Familial partial lipodystrophy,H00420
+AKT2,208,Hypoinsulinemic hypoglycemia with hemihypertrophy,H01909
+AKT3,10000,Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome,H01885
+ATXN1,6310,Spinocerebellar ataxia (SCA),H00063
+RORA,6095,Syndromic intellectual developmental disorder,H02463
+KAT5,10524,Neurodevelopmental disorder with dysmorphic facies,H02535
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+RYR1,6261,Central core disease,H00699
+RYR1,6261,Multi-minicore disease,H01310
+RYR1,6261,Congenital myopathy,H01810
+RYR1,6261,Malignant hyperthermia,H02646
+RYR2,6262,Arrhythmogenic right ventricular cardiomyopathy,H00293
+RYR2,6262,Catecholaminergic polymorphic ventricular tachycardia,H01019
+RYR3,6263,Congenital myopathy,H01810
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+CACNA1B,774,Neurodevelopmental disorder with movement abnormalities or hypotonia,H02397
+CACNA1C,775,Long QT syndrome,H00720
+CACNA1C,775,Brugada syndrome,H00728
+CACNA1C,775,Neurodevelopmental disorder with movement abnormalities or hypotonia,H02397
+CACNA1D,776,Primary aldosteronism,H01603
+CACNA1D,776,Sinoatrial node dysfunction and deafness,H02636
+CACNA1F,778,Cone-rod dystrophy and cone dystrophy,H00481
+CACNA1F,778,Aland Island eye disease,H00690
+CACNA1F,778,Congenital stationary night blindness,H00787
+CACNA1S,779,Periodic paralysis,H00215
+CACNA1S,779,Hypokalemic periodic paralysis,H00746
+CACNA1S,779,Congenital myopathy,H01810
+CACNA1S,779,Malignant hyperthermia,H02646
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+GRIN1,2902,Early infantile epileptic encephalopathy,H00606
+GRIN1,2902,Autosomal dominant intellectual developmental disorder,H00773
+GRIN1,2902,Neurodevelopmental disorder with glutamatergic synapse dysfunction,H02705
+GRIN2A,2903,Landau-Kleffner syndrome,H01514
+GRIN2A,2903,"Rolandic epilepsy, mental retardation, and speech dyspraxia",H01827
+GRIN2B,2904,Early infantile epileptic encephalopathy,H00606
+GRIN2B,2904,Autosomal dominant intellectual developmental disorder,H00773
+GRIN2D,2906,Early infantile epileptic encephalopathy,H00606
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+EIF2AK3,9451,Wolcott-Rallison syndrome,H00766
+DDIT3,1649,Myxoid liposarcoma,H00049
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+CAV1,857,Congenital generalized lipodystrophy,H00419
+CAV1,857,Familial partial lipodystrophy,H00420
+CAV1,857,Primary pulmonary hypertension,H01619
+CAV1,857,Pulmonary arterial hypertension,H01621
+CAV3,859,Hypertrophic cardiomyopathy,H00292
+CAV3,859,Limb-girdle muscular dystrophy 1C,H00567
+CAV3,859,Distal myopathy,H00594
+CAV3,859,Long QT syndrome,H00720
+CAV3,859,Rippling muscle disease,H02179
+CAV3,859,Idiopathic hyperCKemia,H02181
+CAV3,859,"Distal myopathy, Tateyama type",H02182
+PIK3CA,5290,Non-small cell lung cancer,H00014
+PIK3CA,5290,Gastric cancer,H00018
+PIK3CA,5290,Colorectal cancer,H00020
+PIK3CA,5290,Ovarian cancer,H00027
+PIK3CA,5290,Breast cancer,H00031
+PIK3CA,5290,Hepatocellular carcinoma,H00048
+PIK3CA,5290,Cerebral cavernous malformation,H00534
+PIK3CA,5290,Cowden syndrome,H01222
+PIK3CA,5290,"Congenital lipomatous overgrowth, vascular malformations, and epidermal nevi",H01912
+PIK3CA,5290,Desmoplastic small round cell tumor,H01985
+PIK3CA,5290,Megalencephaly-capillary malformation syndrome,H02153
+PIK3CA,5290,CLAPO syndrome,H02297
+PIK3CA,5290,Epidermal nevus,H02627
+PIK3CA,5290,Macrodactyly,H02647
+PIK3CD,5293,Activated PI3K-delta syndrome,H01387
+PIK3CD,5293,Roifman-Chitayat syndrome,H02585
+PRKCD,5580,Autoimmune lymphoproliferative syndromes,H00108
+CYBB,1536,IFN-gamma/IL-12 axis,H00089
+CYBB,1536,Chronic granulomatous disease,H00098
+CYBB,1536,Granulibacter infection,H01167
+CYBA,1535,Chronic granulomatous disease,H00098
+CYBA,1535,Granulibacter infection,H01167
+NCF4,4689,Chronic granulomatous disease,H00098
+NCF1,653361,Chronic granulomatous disease,H00098
+NCF1,653361,Granulibacter infection,H01167
+NCF2,4688,Chronic granulomatous disease,H00098
+RAC1,5879,Autosomal dominant intellectual developmental disorder,H00773
+RAC2,5880,Leukocyte adhesion deficiency,H00099
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+CSNK2A1,1457,Neurodevelopmental disorder with dysmorphic facies and skeletal anomalies,H02460
+CSNK2B,1460,Poirier-Bienvenu neurodevelopmental syndrome,H02635
+KIF5A,3798,Amyotrophic lateral sclerosis (ALS),H00058
+KIF5A,3798,Hereditary spastic paraplegia,H00266
+KIF5C,3800,Complex cortical dysplasia with other brain malformations,H01881
+KLC2,64837,"Spastic paraplegia, optic atrophy, and neuropathy",H02114
+PRNP,5621,Prion disease,H00061
+PRNP,5621,Huntington disease-like syndrome,H01243
+NOTCH1,4851,T-cell acute lymphoblastic leukemia,H00002
+NOTCH1,4851,Breast cancer,H00031
+NOTCH1,4851,Aortic valve disease,H00554
+NOTCH1,4851,Adams-Oliver syndrome,H01413
+GRM1,2911,Spinocerebellar ataxia (SCA),H00063
+GRM1,2911,Autosomal recessive spinocerebellar ataxias,H01891
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+PRKCG,5582,Spinocerebellar ataxia (SCA),H00063
+TRPC3,7222,Spinocerebellar ataxia (SCA),H00063
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+CHRM3,1131,Prune belly syndrome,H02129
+GNAQ,2776,Sturge-Weber syndrome,H01809
+PLCB1,23236,Early infantile epileptic encephalopathy,H00606
+PLCB1,23236,Malignant migrating partial seizures in infancy,H01815
+PLCB3,5331,Spondylometaphyseal dysplasia,H02185
+PLCB4,5332,Auriculocondylar syndrome,H01884
+ITPR1,3708,Spinocerebellar ataxia (SCA),H00063
+ITPR2,3709,Isolated anhidrosis with normal sweat glands,H02281
+ITPR3,3710,Charcot-Marie-Tooth disease,H00264
+ITPR3,3710,Type 1 diabetes mellitus,H00408
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+CACNA1S,779,Periodic paralysis,H00215
+CACNA1S,779,Hypokalemic periodic paralysis,H00746
+CACNA1S,779,Congenital myopathy,H01810
+CACNA1S,779,Malignant hyperthermia,H02646
+CACNA1C,775,Long QT syndrome,H00720
+CACNA1C,775,Brugada syndrome,H00728
+CACNA1C,775,Neurodevelopmental disorder with movement abnormalities or hypotonia,H02397
+CACNA1D,776,Primary aldosteronism,H01603
+CACNA1D,776,Sinoatrial node dysfunction and deafness,H02636
+CACNA1F,778,Cone-rod dystrophy and cone dystrophy,H00481
+CACNA1F,778,Aland Island eye disease,H00690
+CACNA1F,778,Congenital stationary night blindness,H00787
+CACNA1A,773,Spinocerebellar ataxia (SCA),H00063
+CACNA1A,773,Early infantile epileptic encephalopathy,H00606
+CACNA1A,773,Episodic ataxias,H00749
+CACNA1A,773,Hemiplegic migraine,H00775
+CACNA1A,773,Hemiconvulsion-hemiplegia-epilepsy syndrome,H01808
+CACNA1B,774,Neurodevelopmental disorder with movement abnormalities or hypotonia,H02397
+CACNA1E,777,Early infantile epileptic encephalopathy,H00606
+CACNA1G,8913,Spinocerebellar ataxia (SCA),H00063
+CACNA1H,8912,Idiopathic generalized epilepsies,H00808
+CACNA1H,8912,Primary aldosteronism,H01603
+CACNA1H,8912,Childhood absence epilepsy,H02215
+CACNA1I,8911,Neurodevelopmental disorder with movement abnormalities or hypotonia,H02397
+SLC25A4,291,Mitochondrial DNA depletion syndrome,H00469
+SLC25A4,291,Progressive external ophthalmoplegia,H01118
+CYCS,54205,Thrombocytopenia (THC),H00978
+GRIN1,2902,Early infantile epileptic encephalopathy,H00606
+GRIN1,2902,Autosomal dominant intellectual developmental disorder,H00773
+GRIN1,2902,Neurodevelopmental disorder with glutamatergic synapse dysfunction,H02705
+GRIN2A,2903,Landau-Kleffner syndrome,H01514
+GRIN2A,2903,"Rolandic epilepsy, mental retardation, and speech dyspraxia",H01827
+GRIN2B,2904,Early infantile epileptic encephalopathy,H00606
+GRIN2B,2904,Autosomal dominant intellectual developmental disorder,H00773
+GRIN2D,2906,Early infantile epileptic encephalopathy,H00606
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+SNCA,6622,Parkinson disease,H00057
+SNCA,6622,Lewy body dementia (LBD),H00066
+SNCA,6622,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+PSMA6,5687,Myocardial infarction,H01730
+PSMB1,5689,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMB4,5692,Proteasome-associated autoinflammatory syndrome,H02532
+PSMC1,5700,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+PSMC3,5702,"Deafness, cataract, impaired intellectual development, and polyneuropathy",H02634
+PSMD12,5718,Neurodevelopmental disorder with defects of ubiquitin-proteasome system,H02715
+UCHL1,7345,Parkinson disease,H00057
+UCHL1,7345,Hereditary spastic paraplegia,H00266
+EIF2AK3,9451,Wolcott-Rallison syndrome,H00766
+DDIT3,1649,Myxoid liposarcoma,H00049
+XBP1,7494,Bipolar disorder,H01653
+DDIT3,1649,Myxoid liposarcoma,H00049
+MAPK10,5602,Lennox-Gastaut syndrome,H01813
+ATF6,22926,Achromatopsia,H00971
+DDIT3,1649,Myxoid liposarcoma,H00049
+XBP1,7494,Bipolar disorder,H01653
+C9orf72,203228,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+RB1CC1,9821,Breast cancer,H00031
+MTOR,2475,Focal cortical dysplasia of Taylor,H01251
+MTOR,2475,Smith-Kingsmore syndrome,H01928
+TELO2,9894,You-Hoover-Fong syndrome,H01789
+TTI1,9675,Neurodevelopmental disorder with microcephaly,H02461
+RB1CC1,9821,Breast cancer,H00031
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+MFN2,9927,Charcot-Marie-Tooth disease,H00264
+PINK1,65018,Parkinson disease,H00057
+PINK1,65018,Parkinsonian syndrome,H01600
+PRKN,5071,Ovarian cancer,H00027
+PRKN,5071,Parkinson disease,H00057
+PRKN,5071,Parkinsonian syndrome,H01600
+CISD2,493856,Wolfram syndrome,H00854
+HK1,3098,Retinitis pigmentosa,H00527
+HK1,3098,Anemia due to disorders of glycolytic enzymes,H00664
+HK1,3098,Neurodevelopmental disorder with structural brain abnormalities,H02470
+SQSTM1,8878,Paget disease of bone,H00437
+SQSTM1,8878,Distal myopathy,H00594
+SQSTM1,8878,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+SQSTM1,8878,Distal myopathy with rimmed vacuoles,H02586
+OPTN,10133,Amyotrophic lateral sclerosis (ALS),H00058
+OPTN,10133,Primary open angle glaucoma,H00612
+TBK1,29110,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+TBK1,29110,Infection-induced acute encephalopathy,H02536
+SQSTM1,8878,Paget disease of bone,H00437
+SQSTM1,8878,Distal myopathy,H00594
+SQSTM1,8878,Frontotemporal dementia and amyotrophic lateral sclerosis,H02342
+SQSTM1,8878,Distal myopathy with rimmed vacuoles,H02586
+OPTN,10133,Amyotrophic lateral sclerosis (ALS),H00058
+OPTN,10133,Primary open angle glaucoma,H00612
+FASLG,356,Autoimmune lymphoproliferative syndromes,H00108
+FAS,355,Chronic lymphocytic leukemia,H00005
+FAS,355,Hodgkin lymphoma,H00007
+FAS,355,Adult T-cell leukemia,H00009
+FAS,355,Esophageal cancer,H00017
+FAS,355,Autoimmune lymphoproliferative syndromes,H00108
+FAS,355,Mycosis fungoides,H01463
+TNFRSF10B,8795,Head and neck squamous cell carcinoma,H02610
+FADD,8772,Disorders of innate immunity,H02525
+CASP8,841,Hepatocellular carcinoma,H00048
+CASP8,841,Autoimmune lymphoproliferative syndromes,H00108
+CASP10,843,Autoimmune lymphoproliferative syndromes,H00108
+CASP10,843,Non-Hodgkin lymphoma,H02418
+BAX,581,Colorectal cancer,H00020
+CYCS,54205,Thrombocytopenia (THC),H00978
+BCL2,596,Chronic lymphocytic leukemia,H00005
+BCL2,596,Small cell lung cancer,H00013
+BCL2,596,Choriocarcinoma,H00028
+BCL2,596,Cervical cancer,H00030
+BCL2,596,Kaposi sarcoma,H00041
+BCL2,596,Nasopharyngeal cancer,H00054
+BCL2,596,Follicular lymphoma,H01613
+BCL2,596,"Diffuse large B-cell lymphoma, not otherwise specified",H02434
+BAX,581,Colorectal cancer,H00020
+CYCS,54205,Thrombocytopenia (THC),H00978
+HRAS,3265,Bladder cancer,H00022
+HRAS,3265,Penile cancer,H00025
+HRAS,3265,Cervical cancer,H00030
+HRAS,3265,Thyroid cancer,H00032
+HRAS,3265,Squamous cell carcinoma,H00040
+HRAS,3265,Noonan syndrome and related disorders,H00523
+HRAS,3265,Giant cell tumor of bone,H01470
+HRAS,3265,Merkel cell carcinoma,H01555
+HRAS,3265,Medullary thyroid cancer,H01592
+HRAS,3265,Angiosarcoma,H01666
+HRAS,3265,Costello syndrome,H01747
+HRAS,3265,Epidermal nevus,H02627
+HRAS,3265,Schimmelpenning-Feuerstein-Mims syndrome,H02628
+KRAS,3845,Acute myeloid leukemia,H00003
+KRAS,3845,Multiple myeloma,H00010
+KRAS,3845,Non-small cell lung cancer,H00014
+KRAS,3845,Oral cancer,H00016
+KRAS,3845,Gastric cancer,H00018
+KRAS,3845,Pancreatic cancer,H00019
+KRAS,3845,Colorectal cancer,H00020
+KRAS,3845,Endometrial cancer,H00026
+KRAS,3845,Ovarian cancer,H00027
+KRAS,3845,Cervical cancer,H00030
+KRAS,3845,Thyroid cancer,H00032
+KRAS,3845,Squamous cell carcinoma,H00040
+KRAS,3845,Kaposi sarcoma,H00041
+KRAS,3845,Cholangiocarcinoma,H00046
+KRAS,3845,Gallbladder cancer,H00047
+KRAS,3845,Syndromic craniosynostoses,H00458
+KRAS,3845,Noonan syndrome and related disorders,H00523
+KRAS,3845,Hepatic angiosarcoma,H01557
+KRAS,3845,Medullary thyroid cancer,H01592
+KRAS,3845,Angiosarcoma,H01666
+KRAS,3845,Noonan syndrome,H01738
+KRAS,3845,Cardiofaciocutaneous syndrome,H01745
+KRAS,3845,Myelodysplastic/myeloproliferative neoplasms,H02410
+KRAS,3845,Chronic myelomonocytic leukemia,H02411
+KRAS,3845,Atypical chronic myeloid leukemia,H02412
+KRAS,3845,Erdheim-Chester disease,H02425
+KRAS,3845,Juvenile myelomonocytic leukemia,H02541
+KRAS,3845,Schimmelpenning-Feuerstein-Mims syndrome,H02628
+NRAS,4893,Acute myeloid leukemia,H00003
+NRAS,4893,Multiple myeloma,H00010
+NRAS,4893,Oral cancer,H00016
+NRAS,4893,Gastric cancer,H00018
+NRAS,4893,Thyroid cancer,H00032
+NRAS,4893,Adrenal carcinoma,H00033
+NRAS,4893,Melanoma,H00038
+NRAS,4893,Autoimmune lymphoproliferative syndromes,H00108
+NRAS,4893,Noonan syndrome and related disorders,H00523
+NRAS,4893,Angiosarcoma,H01666
+NRAS,4893,Noonan syndrome,H01738
+NRAS,4893,Myelodysplastic/myeloproliferative neoplasms,H02410
+NRAS,4893,Chronic myelomonocytic leukemia,H02411
+NRAS,4893,Atypical chronic myeloid leukemia,H02412
+NRAS,4893,Erdheim-Chester disease,H02425
+NRAS,4893,Juvenile myelomonocytic leukemia,H02541
+NRAS,4893,Epidermal nevus,H02627
+NRAS,4893,Schimmelpenning-Feuerstein-Mims syndrome,H02628
+ARAF,369,Erdheim-Chester disease,H02425
+BRAF,673,Non-small cell lung cancer,H00014
+BRAF,673,Colorectal cancer,H00020
+BRAF,673,Thyroid cancer,H00032
+BRAF,673,Melanoma,H00038
+BRAF,673,Noonan syndrome and related disorders,H00523
+BRAF,673,Langerhans cell histiocytosis,H01512
+BRAF,673,Noonan syndrome,H01738
+BRAF,673,Cardiofaciocutaneous syndrome,H01745
+BRAF,673,Leopard syndrome,H01984
+BRAF,673,Erdheim-Chester disease,H02425
+RAF1,5894,Dilated cardiomyopathy,H00294
+RAF1,5894,Noonan syndrome and related disorders,H00523
+RAF1,5894,Noonan syndrome,H01738
+RAF1,5894,Leopard syndrome,H01984
+MAP2K1,5604,Noonan syndrome and related disorders,H00523
+MAP2K1,5604,Langerhans cell histiocytosis,H01512
+MAP2K1,5604,Cardiofaciocutaneous syndrome,H01745
+MAP2K1,5604,Erdheim-Chester disease,H02425
+MAP2K1,5604,Melorheostosis,H02631
+MAP2K2,5605,Noonan syndrome and related disorders,H00523
+MAP2K2,5605,Cardiofaciocutaneous syndrome,H01745
+MAP2K2,5605,Erdheim-Chester disease,H02425
+MAPK1,5594,Noonan syndrome,H01738
+NFKB1,4790,Common variable immunodeficiency,H00088
+RELA,5970,Chronic mucocutaneous ulceration,H02593
+TNF,7124,Asthma,H00079
+TNF,7124,Systemic lupus erythematosus,H00080
+TNF,7124,Allograft rejection,H00083
+TNF,7124,Graft-versus-host disease,H00084
+TNF,7124,Malaria,H00361
+IL6,3569,Graft-versus-host disease,H00084
+IL6,3569,Crohn disease,H00286
+IL6,3569,Rheumatoid arthritis,H00630
+IL6,3569,Castleman disease,H01479
+IL6,3569,Juvenile idiopathic arthritis,H01672
+NOS2,4843,Esophageal cancer,H00017
+NOS2,4843,Malaria,H00361
+ND1,4535,Leber hereditary optic atrophy,H00068
+ND1,4535,Mitochondrial complex I deficiency,H00473
+ND1,4535,MELAS syndrome,H01347
+ND1,4535,Leber hereditary optic neuropathy and dystonia,H01365
+ND2,4536,Leber hereditary optic atrophy,H00068
+ND2,4536,Mitochondrial complex I deficiency,H00473
+ND3,4537,Mitochondrial complex I deficiency,H00473
+ND3,4537,Kearns-Sayre syndrome,H01355
+ND3,4537,Leber hereditary optic neuropathy and dystonia,H01365
+ND4,4538,Leber hereditary optic atrophy,H00068
+ND4,4538,Mitochondrial complex I deficiency,H00473
+ND4,4538,Kearns-Sayre syndrome,H01355
+ND4,4538,Leber hereditary optic neuropathy and dystonia,H01365
+ND5,4540,Leber hereditary optic atrophy,H00068
+ND5,4540,Mitochondrial complex I deficiency,H00473
+ND5,4540,MELAS syndrome,H01347
+ND5,4540,Kearns-Sayre syndrome,H01355
+ND5,4540,Myoclonic Epilepsy and Ragged-Red Fiber Disease,H01356
+ND6,4541,Leber hereditary optic atrophy,H00068
+ND6,4541,Mitochondrial complex I deficiency,H00473
+ND6,4541,MELAS syndrome,H01347
+ND6,4541,Kearns-Sayre syndrome,H01355
+ND6,4541,Leber hereditary optic neuropathy and dystonia,H01365
+NDUFS1,4719,Mitochondrial complex I deficiency,H00473
+NDUFS2,4720,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Mitochondrial complex I deficiency,H00473
+NDUFS3,4722,Leigh syndrome,H01354
+NDUFS4,4724,Mitochondrial complex I deficiency,H00473
+NDUFS4,4724,Leigh syndrome,H01354
+NDUFS6,4726,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Mitochondrial complex I deficiency,H00473
+NDUFS7,374291,Leigh syndrome,H01354
+NDUFS8,4728,Mitochondrial complex I deficiency,H00473
+NDUFS8,4728,Leigh syndrome,H01354
+NDUFV1,4723,Mitochondrial complex I deficiency,H00473
+NDUFV2,4729,Mitochondrial complex I deficiency,H00473
+NDUFA1,4694,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Mitochondrial complex I deficiency,H00473
+NDUFA2,4695,Leigh syndrome,H01354
+NDUFA4,4697,Cytochrome c oxidase (COX) deficiency,H01368
+NDUFA6,4700,Mitochondrial complex I deficiency,H00473
+NDUFA8,4702,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Mitochondrial complex I deficiency,H00473
+NDUFA9,4704,Leigh syndrome,H01354
+NDUFA10,4705,Mitochondrial complex I deficiency,H00473
+NDUFA10,4705,Leigh syndrome,H01354
+NDUFA11,126328,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Mitochondrial complex I deficiency,H00473
+NDUFA12,55967,Leigh syndrome,H01354
+NDUFA13,51079,Mitochondrial complex I deficiency,H00473
+NDUFB3,4709,Mitochondrial complex I deficiency,H00473
+NDUFB7,4713,Mitochondrial complex I deficiency,H00473
+NDUFB8,4714,Mitochondrial complex I deficiency,H00473
+NDUFB9,4715,Mitochondrial complex I deficiency,H00473
+NDUFB10,4716,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Mitochondrial complex I deficiency,H00473
+NDUFB11,54539,Microphthalmia with linear skin defects syndrome,H01904
+NDUFC2,4718,Mitochondrial complex I deficiency,H00473
+SDHA,6389,Dilated cardiomyopathy,H00294
+SDHA,6389,Diseases of the tricarboxylic acid cycle,H01022
+SDHA,6389,Leigh syndrome,H01354
+SDHA,6389,Mitochondrial complex II deficiency,H02005
+SDHA,6389,Paraganglioma,H02538
+SDHB,6390,Cowden syndrome,H01222
+SDHB,6390,Malignant paraganglioma,H01510
+SDHB,6390,Gastrotintestinal stromal tumor,H01591
+SDHB,6390,Mitochondrial complex II deficiency,H02005
+SDHB,6390,Paraganglioma,H02538
+SDHC,6391,Malignant paraganglioma,H01510
+SDHC,6391,Gastrotintestinal stromal tumor,H01591
+SDHC,6391,Paraganglioma,H02538
+SDHD,6392,Carcinoid,H00034
+SDHD,6392,Cowden syndrome,H01222
+SDHD,6392,Malignant paraganglioma,H01510
+SDHD,6392,Mitochondrial complex II deficiency,H02005
+SDHD,6392,Paraganglioma,H02538
+UQCRFS1,7386,Mitochondrial complex III deficiency,H02086
+CYTB,4519,Leber hereditary optic atrophy,H00068
+CYTB,4519,MELAS syndrome,H01347
+CYTB,4519,Kearns-Sayre syndrome,H01355
+CYC1,1537,Mitochondrial complex III deficiency,H02086
+UQCRC2,7385,Mitochondrial complex III deficiency,H02086
+UQCRH,7388,Mitochondrial complex III deficiency,H02086
+UQCRB,7381,Mitochondrial complex III deficiency,H02086
+UQCRQ,27089,Mitochondrial complex III deficiency,H02086
+COX3,4514,Leber hereditary optic atrophy,H00068
+COX3,4514,Kearns-Sayre syndrome,H01355
+COX3,4514,Cytochrome c oxidase (COX) deficiency,H01368
+COX1,4512,Leber hereditary optic atrophy,H00068
+COX1,4512,Cytochrome c oxidase (COX) deficiency,H01368
+COX2,4513,Cytochrome c oxidase (COX) deficiency,H01368
+COX4I1,1327,Cytochrome c oxidase (COX) deficiency,H01368
+COX4I2,84701,"Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis",H00920
+COX5A,9377,Cytochrome c oxidase (COX) deficiency,H01368
+COX6A1,1337,Charcot-Marie-Tooth disease,H00264
+COX6A2,1339,Cytochrome c oxidase (COX) deficiency,H01368
+COX6B1,1340,Cytochrome c oxidase (COX) deficiency,H01368
+COX7B,1349,Microphthalmia with linear skin defects syndrome,H01904
+COX8A,1351,Cytochrome c oxidase (COX) deficiency,H01368
+DCTN1,1639,Amyotrophic lateral sclerosis (ALS),H00058
+DCTN1,1639,Distal hereditary motor neuropathies,H00856
+DCTN1,1639,Perry syndrome,H00879
+DNAH1,25981,Primary ciliary dyskinesia,H00564
+DNAH1,25981,Spermatogenic failure,H01282
+DNAH2,146754,Spermatogenic failure,H01282
+DNAH5,1767,Primary ciliary dyskinesia,H00564
+DNAH7,56171,Primary ciliary dyskinesia,H00564
+DNAH8,1769,Spermatogenic failure,H01282
+DNAH9,1770,Primary ciliary dyskinesia,H00564
+DNAH10,196385,Spermatogenic failure,H01282
+DNAH11,8701,Primary ciliary dyskinesia,H00564
+DNAH17,8632,Spermatogenic failure,H01282
+DNAI1,27019,Primary ciliary dyskinesia,H00564
+DNAI2,64446,Primary ciliary dyskinesia,H00564
+DNALI1,7802,Spermatogenic failure,H01282
+DNAL1,83544,Primary ciliary dyskinesia,H00564
+DNAL4,10126,Congenital mirror movements,H01287
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897
+KIF5A,3798,Amyotrophic lateral sclerosis (ALS),H00058
+KIF5A,3798,Hereditary spastic paraplegia,H00266
+KIF5C,3800,Complex cortical dysplasia with other brain malformations,H01881
+KLC2,64837,"Spastic paraplegia, optic atrophy, and neuropathy",H02114
+TUBA1A,7846,Lissencephaly,H00268
+TUBA3D,113457,Keratoconus,H00789
+TUBA4A,7277,Amyotrophic lateral sclerosis (ALS),H00058
+TUBA8,51807,Macrothrombocytopenia,H01740
+TUBB,203068,Congenital symmetric circumferential skin creases,H01579
+TUBB,203068,Complex cortical dysplasia with other brain malformations,H01881
+TUBB1,81027,Macrothrombocytopenia,H01740
+TUBB2A,7280,Complex cortical dysplasia with other brain malformations,H01881
+TUBB2B,347733,Complex cortical dysplasia with other brain malformations,H01881
+TUBB3,10381,Congenital fibrosis of the extraocular muscles,H00838
+TUBB3,10381,Complex cortical dysplasia with other brain malformations,H01881
+TUBB4A,10382,Hypomyelinating leukodystrophy,H00679
+TUBB4A,10382,Primary dystonia,H00831
+TUBB4B,10383,Leber congenital amaurosis,H00837
+TUBB6,84617,Congenital facial palsy with ptosis and velopharyngeal dysfunction,H02594
+TUBB8,347688,Oocyte/zygote/embryo maturation arrest,H01897

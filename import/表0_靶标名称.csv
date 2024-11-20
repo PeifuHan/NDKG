@@ -1,0 +1,533 @@
+基因名称,基因ID,基因链接
+APP,351,https://www.kegg.jp/entry/hsa:351
+GRM5,2915,https://www.kegg.jp/entry/hsa:2915
+GNAQ,2776,https://www.kegg.jp/entry/hsa:2776
+PLCB1,23236,https://www.kegg.jp/entry/hsa:23236
+PLCB2,5330,https://www.kegg.jp/entry/hsa:5330
+PLCB3,5331,https://www.kegg.jp/entry/hsa:5331
+PLCB4,5332,https://www.kegg.jp/entry/hsa:5332
+ITPR1,3708,https://www.kegg.jp/entry/hsa:3708
+ITPR2,3709,https://www.kegg.jp/entry/hsa:3709
+ITPR3,3710,https://www.kegg.jp/entry/hsa:3710
+MCU,90550,https://www.kegg.jp/entry/hsa:90550
+VDAC1,7416,https://www.kegg.jp/entry/hsa:7416
+VDAC2,7417,https://www.kegg.jp/entry/hsa:7417
+VDAC3,7419,https://www.kegg.jp/entry/hsa:7419
+SLC25A4,291,https://www.kegg.jp/entry/hsa:291
+SLC25A5,292,https://www.kegg.jp/entry/hsa:292
+SLC25A6,293,https://www.kegg.jp/entry/hsa:293
+SLC25A31,83447,https://www.kegg.jp/entry/hsa:83447
+CYCS,54205,https://www.kegg.jp/entry/hsa:54205
+APAF1,317,https://www.kegg.jp/entry/hsa:317
+CASP9,842,https://www.kegg.jp/entry/hsa:842
+CASP3,836,https://www.kegg.jp/entry/hsa:836
+PSEN1,5663,https://www.kegg.jp/entry/hsa:5663
+PSEN2,5664,https://www.kegg.jp/entry/hsa:5664
+RYR3,6263,https://www.kegg.jp/entry/hsa:6263
+CASP7,840,https://www.kegg.jp/entry/hsa:840
+CHRM1,1128,https://www.kegg.jp/entry/hsa:1128
+CHRM3,1131,https://www.kegg.jp/entry/hsa:1131
+CHRM5,1133,https://www.kegg.jp/entry/hsa:1133
+CACNA1C,775,https://www.kegg.jp/entry/hsa:775
+CACNA1D,776,https://www.kegg.jp/entry/hsa:776
+CACNA1F,778,https://www.kegg.jp/entry/hsa:778
+CACNA1S,779,https://www.kegg.jp/entry/hsa:779
+PPID,5481,https://www.kegg.jp/entry/hsa:5481
+GRIN1,2902,https://www.kegg.jp/entry/hsa:2902
+GRIN2A,2903,https://www.kegg.jp/entry/hsa:2903
+GRIN2B,2904,https://www.kegg.jp/entry/hsa:2904
+GRIN2C,2905,https://www.kegg.jp/entry/hsa:2905
+GRIN2D,2906,https://www.kegg.jp/entry/hsa:2906
+PSMA6,5687,https://www.kegg.jp/entry/hsa:5687
+PSMA2,5683,https://www.kegg.jp/entry/hsa:5683
+PSMA4,5685,https://www.kegg.jp/entry/hsa:5685
+PSMA7,5688,https://www.kegg.jp/entry/hsa:5688
+PSMA8,143471,https://www.kegg.jp/entry/hsa:143471
+PSMA5,5686,https://www.kegg.jp/entry/hsa:5686
+PSMA1,5682,https://www.kegg.jp/entry/hsa:5682
+PSMA3,5684,https://www.kegg.jp/entry/hsa:5684
+PSMB6,5694,https://www.kegg.jp/entry/hsa:5694
+PSMB7,5695,https://www.kegg.jp/entry/hsa:5695
+PSMB3,5691,https://www.kegg.jp/entry/hsa:5691
+PSMB2,5690,https://www.kegg.jp/entry/hsa:5690
+PSMB5,5693,https://www.kegg.jp/entry/hsa:5693
+PSMB1,5689,https://www.kegg.jp/entry/hsa:5689
+PSMB4,5692,https://www.kegg.jp/entry/hsa:5692
+PSMC2,5701,https://www.kegg.jp/entry/hsa:5701
+PSMC1,5700,https://www.kegg.jp/entry/hsa:5700
+PSMC4,5704,https://www.kegg.jp/entry/hsa:5704
+PSMC6,5706,https://www.kegg.jp/entry/hsa:5706
+PSMC3,5702,https://www.kegg.jp/entry/hsa:5702
+PSMC5,5705,https://www.kegg.jp/entry/hsa:5705
+PSMD2,5708,https://www.kegg.jp/entry/hsa:5708
+PSMD1,5707,https://www.kegg.jp/entry/hsa:5707
+PSMD3,5709,https://www.kegg.jp/entry/hsa:5709
+PSMD9,5715,https://www.kegg.jp/entry/hsa:5715
+PSMD12,5718,https://www.kegg.jp/entry/hsa:5718
+PSMD11,5717,https://www.kegg.jp/entry/hsa:5717
+PSMD6,9861,https://www.kegg.jp/entry/hsa:9861
+PSMD7,5713,https://www.kegg.jp/entry/hsa:5713
+PSMD13,5719,https://www.kegg.jp/entry/hsa:5719
+PSMD4,5710,https://www.kegg.jp/entry/hsa:5710
+PSMD14,10213,https://www.kegg.jp/entry/hsa:10213
+PSMD8,5714,https://www.kegg.jp/entry/hsa:5714
+ADRM1,11047,https://www.kegg.jp/entry/hsa:11047
+SEM1,7979,https://www.kegg.jp/entry/hsa:7979
+EIF2AK3,9451,https://www.kegg.jp/entry/hsa:9451
+EIF2S1,1965,https://www.kegg.jp/entry/hsa:1965
+ATF4,468,https://www.kegg.jp/entry/hsa:468
+DDIT3,1649,https://www.kegg.jp/entry/hsa:1649
+ERN1,2081,https://www.kegg.jp/entry/hsa:2081
+XBP1,7494,https://www.kegg.jp/entry/hsa:7494
+MAP3K5,4217,https://www.kegg.jp/entry/hsa:4217
+MAP2K7,5609,https://www.kegg.jp/entry/hsa:5609
+MAPK8,5599,https://www.kegg.jp/entry/hsa:5599
+MAPK9,5601,https://www.kegg.jp/entry/hsa:5601
+MAPK10,5602,https://www.kegg.jp/entry/hsa:5602
+ATF6,22926,https://www.kegg.jp/entry/hsa:22926
+FAS,355,https://www.kegg.jp/entry/hsa:355
+FADD,8772,https://www.kegg.jp/entry/hsa:8772
+CASP8,841,https://www.kegg.jp/entry/hsa:841
+BID,637,https://www.kegg.jp/entry/hsa:637
+BAX,581,https://www.kegg.jp/entry/hsa:581
+BAK1,578,https://www.kegg.jp/entry/hsa:578
+AGER,177,https://www.kegg.jp/entry/hsa:177
+HRAS,3265,https://www.kegg.jp/entry/hsa:3265
+KRAS,3845,https://www.kegg.jp/entry/hsa:3845
+NRAS,4893,https://www.kegg.jp/entry/hsa:4893
+ARAF,369,https://www.kegg.jp/entry/hsa:369
+BRAF,673,https://www.kegg.jp/entry/hsa:673
+RAF1,5894,https://www.kegg.jp/entry/hsa:5894
+MAP2K1,5604,https://www.kegg.jp/entry/hsa:5604
+MAP2K2,5605,https://www.kegg.jp/entry/hsa:5605
+MAPK1,5594,https://www.kegg.jp/entry/hsa:5594
+MAPK3,5595,https://www.kegg.jp/entry/hsa:5595
+NFKB1,4790,https://www.kegg.jp/entry/hsa:4790
+RELA,5970,https://www.kegg.jp/entry/hsa:5970
+TNF,7124,https://www.kegg.jp/entry/hsa:7124
+IL6,3569,https://www.kegg.jp/entry/hsa:3569
+NOS2,4843,https://www.kegg.jp/entry/hsa:4843
+CHRNA7,1139,https://www.kegg.jp/entry/hsa:1139
+CAPN1,823,https://www.kegg.jp/entry/hsa:823
+CAPN2,824,https://www.kegg.jp/entry/hsa:824
+CDK5R1,8851,https://www.kegg.jp/entry/hsa:8851
+CDK5,1020,https://www.kegg.jp/entry/hsa:1020
+MAPT,4137,https://www.kegg.jp/entry/hsa:4137
+ND1,4535,https://www.kegg.jp/entry/hsa:4535
+ND2,4536,https://www.kegg.jp/entry/hsa:4536
+ND3,4537,https://www.kegg.jp/entry/hsa:4537
+ND4,4538,https://www.kegg.jp/entry/hsa:4538
+ND5,4540,https://www.kegg.jp/entry/hsa:4540
+ND6,4541,https://www.kegg.jp/entry/hsa:4541
+NDUFS1,4719,https://www.kegg.jp/entry/hsa:4719
+NDUFS2,4720,https://www.kegg.jp/entry/hsa:4720
+NDUFS3,4722,https://www.kegg.jp/entry/hsa:4722
+NDUFS4,4724,https://www.kegg.jp/entry/hsa:4724
+NDUFS5,4725,https://www.kegg.jp/entry/hsa:4725
+NDUFS6,4726,https://www.kegg.jp/entry/hsa:4726
+NDUFS7,374291,https://www.kegg.jp/entry/hsa:374291
+NDUFS8,4728,https://www.kegg.jp/entry/hsa:4728
+NDUFV1,4723,https://www.kegg.jp/entry/hsa:4723
+NDUFV2,4729,https://www.kegg.jp/entry/hsa:4729
+NDUFV3,4731,https://www.kegg.jp/entry/hsa:4731
+NDUFA1,4694,https://www.kegg.jp/entry/hsa:4694
+NDUFA2,4695,https://www.kegg.jp/entry/hsa:4695
+NDUFA3,4696,https://www.kegg.jp/entry/hsa:4696
+NDUFA4,4697,https://www.kegg.jp/entry/hsa:4697
+NDUFA5,4698,https://www.kegg.jp/entry/hsa:4698
+NDUFA6,4700,https://www.kegg.jp/entry/hsa:4700
+NDUFA7,4701,https://www.kegg.jp/entry/hsa:4701
+NDUFA8,4702,https://www.kegg.jp/entry/hsa:4702
+NDUFA9,4704,https://www.kegg.jp/entry/hsa:4704
+NDUFA10,4705,https://www.kegg.jp/entry/hsa:4705
+NDUFAB1,4706,https://www.kegg.jp/entry/hsa:4706
+NDUFA11,126328,https://www.kegg.jp/entry/hsa:126328
+NDUFA12,55967,https://www.kegg.jp/entry/hsa:55967
+NDUFA13,51079,https://www.kegg.jp/entry/hsa:51079
+NDUFB1,4707,https://www.kegg.jp/entry/hsa:4707
+NDUFB2,4708,https://www.kegg.jp/entry/hsa:4708
+NDUFB3,4709,https://www.kegg.jp/entry/hsa:4709
+NDUFB4,4710,https://www.kegg.jp/entry/hsa:4710
+NDUFB5,4711,https://www.kegg.jp/entry/hsa:4711
+NDUFB6,4712,https://www.kegg.jp/entry/hsa:4712
+NDUFB7,4713,https://www.kegg.jp/entry/hsa:4713
+NDUFB8,4714,https://www.kegg.jp/entry/hsa:4714
+NDUFB9,4715,https://www.kegg.jp/entry/hsa:4715
+NDUFB10,4716,https://www.kegg.jp/entry/hsa:4716
+NDUFB11,54539,https://www.kegg.jp/entry/hsa:54539
+NDUFC1,4717,https://www.kegg.jp/entry/hsa:4717
+NDUFC2,4718,https://www.kegg.jp/entry/hsa:4718
+SDHA,6389,https://www.kegg.jp/entry/hsa:6389
+SDHB,6390,https://www.kegg.jp/entry/hsa:6390
+SDHC,6391,https://www.kegg.jp/entry/hsa:6391
+SDHD,6392,https://www.kegg.jp/entry/hsa:6392
+COX3,4514,https://www.kegg.jp/entry/hsa:4514
+COX1,4512,https://www.kegg.jp/entry/hsa:4512
+COX2,4513,https://www.kegg.jp/entry/hsa:4513
+COX4I1,1327,https://www.kegg.jp/entry/hsa:1327
+COX4I2,84701,https://www.kegg.jp/entry/hsa:84701
+COX5A,9377,https://www.kegg.jp/entry/hsa:9377
+COX5B,1329,https://www.kegg.jp/entry/hsa:1329
+COX6A1,1337,https://www.kegg.jp/entry/hsa:1337
+COX6A2,1339,https://www.kegg.jp/entry/hsa:1339
+COX6B1,1340,https://www.kegg.jp/entry/hsa:1340
+COX6B2,125965,https://www.kegg.jp/entry/hsa:125965
+COX6C,1345,https://www.kegg.jp/entry/hsa:1345
+COX7A1,1346,https://www.kegg.jp/entry/hsa:1346
+COX7A2,1347,https://www.kegg.jp/entry/hsa:1347
+COX7A2L,9167,https://www.kegg.jp/entry/hsa:9167
+COX7B,1349,https://www.kegg.jp/entry/hsa:1349
+COX7C,1350,https://www.kegg.jp/entry/hsa:1350
+COX8A,1351,https://www.kegg.jp/entry/hsa:1351
+COX8C,341947,https://www.kegg.jp/entry/hsa:341947
+GSK3B,2932,https://www.kegg.jp/entry/hsa:2932
+KIF5A,3798,https://www.kegg.jp/entry/hsa:3798
+KIF5B,3799,https://www.kegg.jp/entry/hsa:3799
+KIF5C,3800,https://www.kegg.jp/entry/hsa:3800
+KLC1,3831,https://www.kegg.jp/entry/hsa:3831
+KLC2,64837,https://www.kegg.jp/entry/hsa:64837
+KLC3,147700,https://www.kegg.jp/entry/hsa:147700
+KLC4,89953,https://www.kegg.jp/entry/hsa:89953
+TUBA1A,7846,https://www.kegg.jp/entry/hsa:7846
+TUBA1B,10376,https://www.kegg.jp/entry/hsa:10376
+TUBA1C,84790,https://www.kegg.jp/entry/hsa:84790
+TUBA3C,7278,https://www.kegg.jp/entry/hsa:7278
+TUBA3D,113457,https://www.kegg.jp/entry/hsa:113457
+TUBA3E,112714,https://www.kegg.jp/entry/hsa:112714
+TUBA4A,7277,https://www.kegg.jp/entry/hsa:7277
+TUBA8,51807,https://www.kegg.jp/entry/hsa:51807
+TUBB,203068,https://www.kegg.jp/entry/hsa:203068
+TUBB1,81027,https://www.kegg.jp/entry/hsa:81027
+TUBB2A,7280,https://www.kegg.jp/entry/hsa:7280
+TUBB2B,347733,https://www.kegg.jp/entry/hsa:347733
+TUBB3,10381,https://www.kegg.jp/entry/hsa:10381
+TUBB4A,10382,https://www.kegg.jp/entry/hsa:10382
+TUBB4B,10383,https://www.kegg.jp/entry/hsa:10383
+TUBB6,84617,https://www.kegg.jp/entry/hsa:84617
+TUBB8,347688,https://www.kegg.jp/entry/hsa:347688
+MME,4311,https://www.kegg.jp/entry/hsa:4311
+PRKN,5071,https://www.kegg.jp/entry/hsa:5071
+PLCG1,5335,https://www.kegg.jp/entry/hsa:5335
+SNCA,6622,https://www.kegg.jp/entry/hsa:6622
+UBE2L3,7332,https://www.kegg.jp/entry/hsa:7332
+UBE2L6,9246,https://www.kegg.jp/entry/hsa:9246
+GPR37,2861,https://www.kegg.jp/entry/hsa:2861
+SEPTIN5,5413,https://www.kegg.jp/entry/hsa:5413
+SNCAIP,9627,https://www.kegg.jp/entry/hsa:9627
+RPS27A,6233,https://www.kegg.jp/entry/hsa:6233
+UBA52,7311,https://www.kegg.jp/entry/hsa:7311
+UBB,7314,https://www.kegg.jp/entry/hsa:7314
+UBC,7316,https://www.kegg.jp/entry/hsa:7316
+UCHL1,7345,https://www.kegg.jp/entry/hsa:7345
+HSPA5,3309,https://www.kegg.jp/entry/hsa:3309
+PINK1,65018,https://www.kegg.jp/entry/hsa:65018
+MFN1,55669,https://www.kegg.jp/entry/hsa:55669
+MFN2,9927,https://www.kegg.jp/entry/hsa:9927
+PARK7,11315,https://www.kegg.jp/entry/hsa:11315
+BCL2L1,598,https://www.kegg.jp/entry/hsa:598
+HTRA2,27429,https://www.kegg.jp/entry/hsa:27429
+TRAP1,10131,https://www.kegg.jp/entry/hsa:10131
+LRRK2,120892,https://www.kegg.jp/entry/hsa:120892
+DAXX,1616,https://www.kegg.jp/entry/hsa:1616
+TXN,7295,https://www.kegg.jp/entry/hsa:7295
+TH,7054,https://www.kegg.jp/entry/hsa:7054
+MAOA,4128,https://www.kegg.jp/entry/hsa:4128
+MAOB,4129,https://www.kegg.jp/entry/hsa:4129
+SLC18A2,6571,https://www.kegg.jp/entry/hsa:6571
+UQCRFS1,7386,https://www.kegg.jp/entry/hsa:7386
+CYTB,4519,https://www.kegg.jp/entry/hsa:4519
+CYC1,1537,https://www.kegg.jp/entry/hsa:1537
+UQCRC1,7384,https://www.kegg.jp/entry/hsa:7384
+UQCRC2,7385,https://www.kegg.jp/entry/hsa:7385
+UQCRHL,440567,https://www.kegg.jp/entry/hsa:440567
+UQCRH,7388,https://www.kegg.jp/entry/hsa:7388
+UQCRB,7381,https://www.kegg.jp/entry/hsa:7381
+UQCRQ,27089,https://www.kegg.jp/entry/hsa:27089
+UQCR10,29796,https://www.kegg.jp/entry/hsa:29796
+UQCR11,10975,https://www.kegg.jp/entry/hsa:10975
+TP53,7157,https://www.kegg.jp/entry/hsa:7157
+DUSP1,1843,https://www.kegg.jp/entry/hsa:1843
+NFE2L2,4780,https://www.kegg.jp/entry/hsa:4780
+SIGMAR1,10280,https://www.kegg.jp/entry/hsa:10280
+SOD1,6647,https://www.kegg.jp/entry/hsa:6647
+DERL1,79139,https://www.kegg.jp/entry/hsa:79139
+VCP,7415,https://www.kegg.jp/entry/hsa:7415
+UBQLN2,29978,https://www.kegg.jp/entry/hsa:29978
+VAPB,9217,https://www.kegg.jp/entry/hsa:9217
+RAB1A,5861,https://www.kegg.jp/entry/hsa:5861
+C9orf72,203228,https://www.kegg.jp/entry/hsa:203228
+WDR41,55255,https://www.kegg.jp/entry/hsa:55255
+SMCR8,140775,https://www.kegg.jp/entry/hsa:140775
+ULK1,8408,https://www.kegg.jp/entry/hsa:8408
+RB1CC1,9821,https://www.kegg.jp/entry/hsa:9821
+ATG101,60673,https://www.kegg.jp/entry/hsa:60673
+ATG13,9776,https://www.kegg.jp/entry/hsa:9776
+CISD1,55847,https://www.kegg.jp/entry/hsa:55847
+CISD2,493856,https://www.kegg.jp/entry/hsa:493856
+FAF2,23197,https://www.kegg.jp/entry/hsa:23197
+FKBP8,23770,https://www.kegg.jp/entry/hsa:23770
+TOMM70,9868,https://www.kegg.jp/entry/hsa:9868
+HK1,3098,https://www.kegg.jp/entry/hsa:3098
+OPTN,10133,https://www.kegg.jp/entry/hsa:10133
+SQSTM1,8878,https://www.kegg.jp/entry/hsa:8878
+MAP1LC3A,84557,https://www.kegg.jp/entry/hsa:84557
+MAP1LC3B,81631,https://www.kegg.jp/entry/hsa:81631
+MAP1LC3B2,643246,https://www.kegg.jp/entry/hsa:643246
+MAP1LC3C,440738,https://www.kegg.jp/entry/hsa:440738
+TBK1,29110,https://www.kegg.jp/entry/hsa:29110
+CALCOCO2,10241,https://www.kegg.jp/entry/hsa:10241
+TAX1BP1,8887,https://www.kegg.jp/entry/hsa:8887
+NBR1,4077,https://www.kegg.jp/entry/hsa:4077
+BCL2,596,https://www.kegg.jp/entry/hsa:596
+NRG1,3084,https://www.kegg.jp/entry/hsa:3084
+NRG2,9542,https://www.kegg.jp/entry/hsa:9542
+NRG3,10718,https://www.kegg.jp/entry/hsa:10718
+NRG4,145957,https://www.kegg.jp/entry/hsa:145957
+ERBB4,2066,https://www.kegg.jp/entry/hsa:2066
+TARDBP,23435,https://www.kegg.jp/entry/hsa:23435
+DCTN1,1639,https://www.kegg.jp/entry/hsa:1639
+DCTN2,10540,https://www.kegg.jp/entry/hsa:10540
+DCTN3,11258,https://www.kegg.jp/entry/hsa:11258
+DCTN4,51164,https://www.kegg.jp/entry/hsa:51164
+DCTN5,84516,https://www.kegg.jp/entry/hsa:84516
+DCTN6,10671,https://www.kegg.jp/entry/hsa:10671
+ACTR1A,10121,https://www.kegg.jp/entry/hsa:10121
+ACTR1B,10120,https://www.kegg.jp/entry/hsa:10120
+ACTR10,55860,https://www.kegg.jp/entry/hsa:55860
+DNAH1,25981,https://www.kegg.jp/entry/hsa:25981
+DNAH2,146754,https://www.kegg.jp/entry/hsa:146754
+DNAH3,55567,https://www.kegg.jp/entry/hsa:55567
+DNAH5,1767,https://www.kegg.jp/entry/hsa:1767
+DNAH6,1768,https://www.kegg.jp/entry/hsa:1768
+DNAH7,56171,https://www.kegg.jp/entry/hsa:56171
+DNAH8,1769,https://www.kegg.jp/entry/hsa:1769
+DNAH9,1770,https://www.kegg.jp/entry/hsa:1770
+DNAH10,196385,https://www.kegg.jp/entry/hsa:196385
+DNAH11,8701,https://www.kegg.jp/entry/hsa:8701
+DNAH12,201625,https://www.kegg.jp/entry/hsa:201625
+DNAH17,8632,https://www.kegg.jp/entry/hsa:8632
+DNAI1,27019,https://www.kegg.jp/entry/hsa:27019
+DNAI2,64446,https://www.kegg.jp/entry/hsa:64446
+DNALI1,7802,https://www.kegg.jp/entry/hsa:7802
+DNAL1,83544,https://www.kegg.jp/entry/hsa:83544
+DNAL4,10126,https://www.kegg.jp/entry/hsa:10126
+ACTB,60,https://www.kegg.jp/entry/hsa:60
+ACTG1,71,https://www.kegg.jp/entry/hsa:71
+PFN1,5216,https://www.kegg.jp/entry/hsa:5216
+FUS,2521,https://www.kegg.jp/entry/hsa:2521
+NCBP1,4686,https://www.kegg.jp/entry/hsa:4686
+ALYREF,10189,https://www.kegg.jp/entry/hsa:10189
+SRSF3,6428,https://www.kegg.jp/entry/hsa:6428
+SRSF7,6432,https://www.kegg.jp/entry/hsa:6432
+NXF1,10482,https://www.kegg.jp/entry/hsa:10482
+NXT1,29107,https://www.kegg.jp/entry/hsa:29107
+NXT2,55916,https://www.kegg.jp/entry/hsa:55916
+SEH1L,81929,https://www.kegg.jp/entry/hsa:81929
+NUP133,55746,https://www.kegg.jp/entry/hsa:55746
+NUP107,57122,https://www.kegg.jp/entry/hsa:57122
+NUP37,79023,https://www.kegg.jp/entry/hsa:79023
+NUP160,23279,https://www.kegg.jp/entry/hsa:23279
+NUP85,79902,https://www.kegg.jp/entry/hsa:79902
+NUP43,348995,https://www.kegg.jp/entry/hsa:348995
+NUP62,23636,https://www.kegg.jp/entry/hsa:23636
+NUP58,9818,https://www.kegg.jp/entry/hsa:9818
+NUP54,53371,https://www.kegg.jp/entry/hsa:53371
+NUP93,9688,https://www.kegg.jp/entry/hsa:9688
+NUP205,23165,https://www.kegg.jp/entry/hsa:23165
+NUP188,23511,https://www.kegg.jp/entry/hsa:23511
+NUP155,9631,https://www.kegg.jp/entry/hsa:9631
+NUP35,129401,https://www.kegg.jp/entry/hsa:129401
+NUP210,23225,https://www.kegg.jp/entry/hsa:23225
+NDC1,55706,https://www.kegg.jp/entry/hsa:55706
+POM121,9883,https://www.kegg.jp/entry/hsa:9883
+NUP214,8021,https://www.kegg.jp/entry/hsa:8021
+NUP88,4927,https://www.kegg.jp/entry/hsa:4927
+RANBP2,5903,https://www.kegg.jp/entry/hsa:5903
+GLE1,2733,https://www.kegg.jp/entry/hsa:2733
+DDX19B,11269,https://www.kegg.jp/entry/hsa:11269
+HTT,3064,https://www.kegg.jp/entry/hsa:3064
+STX1A,6804,https://www.kegg.jp/entry/hsa:6804
+CACNA1B,774,https://www.kegg.jp/entry/hsa:774
+DLG4,1742,https://www.kegg.jp/entry/hsa:1742
+BECN1,8678,https://www.kegg.jp/entry/hsa:8678
+PIK3C3,5289,https://www.kegg.jp/entry/hsa:5289
+ATG14,22863,https://www.kegg.jp/entry/hsa:22863
+PIK3R4,30849,https://www.kegg.jp/entry/hsa:30849
+AMBRA1,55626,https://www.kegg.jp/entry/hsa:55626
+HIP1,3092,https://www.kegg.jp/entry/hsa:3092
+IFT57,55081,https://www.kegg.jp/entry/hsa:55081
+MAP3K10,4294,https://www.kegg.jp/entry/hsa:4294
+HAP1,9001,https://www.kegg.jp/entry/hsa:9001
+REST,5978,https://www.kegg.jp/entry/hsa:5978
+SIN3A,25942,https://www.kegg.jp/entry/hsa:25942
+RCOR1,23186,https://www.kegg.jp/entry/hsa:23186
+HDAC1,3065,https://www.kegg.jp/entry/hsa:3065
+HDAC2,3066,https://www.kegg.jp/entry/hsa:3066
+BDNF,627,https://www.kegg.jp/entry/hsa:627
+CREB3,10488,https://www.kegg.jp/entry/hsa:10488
+CREB1,1385,https://www.kegg.jp/entry/hsa:1385
+ATF2,1386,https://www.kegg.jp/entry/hsa:1386
+ATF6B,1388,https://www.kegg.jp/entry/hsa:1388
+CREB3L4,148327,https://www.kegg.jp/entry/hsa:148327
+CREB3L2,64764,https://www.kegg.jp/entry/hsa:64764
+CREB3L3,84699,https://www.kegg.jp/entry/hsa:84699
+CREB3L1,90993,https://www.kegg.jp/entry/hsa:90993
+CREB5,9586,https://www.kegg.jp/entry/hsa:9586
+TAF4,6874,https://www.kegg.jp/entry/hsa:6874
+PPARGC1A,10891,https://www.kegg.jp/entry/hsa:10891
+BBC3,27113,https://www.kegg.jp/entry/hsa:27113
+SPTBN2,6712,https://www.kegg.jp/entry/hsa:6712
+GRM1,2911,https://www.kegg.jp/entry/hsa:2911
+PRKCG,5582,https://www.kegg.jp/entry/hsa:5582
+TRPC3,7222,https://www.kegg.jp/entry/hsa:7222
+ATXN2,6311,https://www.kegg.jp/entry/hsa:6311
+ATXN3,4287,https://www.kegg.jp/entry/hsa:4287
+CACNA1A,773,https://www.kegg.jp/entry/hsa:773
+PDYN,5173,https://www.kegg.jp/entry/hsa:5173
+KCNC3,3748,https://www.kegg.jp/entry/hsa:3748
+KCND3,3752,https://www.kegg.jp/entry/hsa:3752
+RELN,5649,https://www.kegg.jp/entry/hsa:5649
+VLDLR,7436,https://www.kegg.jp/entry/hsa:7436
+DAB1,1600,https://www.kegg.jp/entry/hsa:1600
+PIK3CA,5290,https://www.kegg.jp/entry/hsa:5290
+PIK3CB,5291,https://www.kegg.jp/entry/hsa:5291
+PIK3CD,5293,https://www.kegg.jp/entry/hsa:5293
+AKT1,207,https://www.kegg.jp/entry/hsa:207
+AKT2,208,https://www.kegg.jp/entry/hsa:208
+AKT3,10000,https://www.kegg.jp/entry/hsa:10000
+ATXN1,6310,https://www.kegg.jp/entry/hsa:6310
+RORA,6095,https://www.kegg.jp/entry/hsa:6095
+KAT5,10524,https://www.kegg.jp/entry/hsa:10524
+SLC1A6,6511,https://www.kegg.jp/entry/hsa:6511
+PRNP,5621,https://www.kegg.jp/entry/hsa:5621
+RYR1,6261,https://www.kegg.jp/entry/hsa:6261
+RYR2,6262,https://www.kegg.jp/entry/hsa:6262
+CAV1,857,https://www.kegg.jp/entry/hsa:857
+CAV2,858,https://www.kegg.jp/entry/hsa:858
+CAV3,859,https://www.kegg.jp/entry/hsa:859
+FYN,2534,https://www.kegg.jp/entry/hsa:2534
+PRKCD,5580,https://www.kegg.jp/entry/hsa:5580
+CYBB,1536,https://www.kegg.jp/entry/hsa:1536
+CYBA,1535,https://www.kegg.jp/entry/hsa:1535
+NCF4,4689,https://www.kegg.jp/entry/hsa:4689
+NCF1,653361,https://www.kegg.jp/entry/hsa:653361
+NCF2,4688,https://www.kegg.jp/entry/hsa:4688
+RAC1,5879,https://www.kegg.jp/entry/hsa:5879
+RAC2,5880,https://www.kegg.jp/entry/hsa:5880
+CSNK2A1,1457,https://www.kegg.jp/entry/hsa:1457
+CSNK2A2,1459,https://www.kegg.jp/entry/hsa:1459
+CSNK2B,1460,https://www.kegg.jp/entry/hsa:1460
+CSNK2A3,283106,https://www.kegg.jp/entry/hsa:283106
+NOTCH1,4851,https://www.kegg.jp/entry/hsa:4851
+PRKCA,5578,https://www.kegg.jp/entry/hsa:5578
+PRKCB,5579,https://www.kegg.jp/entry/hsa:5579
+CACNA1E,777,https://www.kegg.jp/entry/hsa:777
+CACNA1G,8913,https://www.kegg.jp/entry/hsa:8913
+CACNA1H,8912,https://www.kegg.jp/entry/hsa:8912
+CACNA1I,8911,https://www.kegg.jp/entry/hsa:8911
+TRAF2,7186,https://www.kegg.jp/entry/hsa:7186
+MTOR,2475,https://www.kegg.jp/entry/hsa:2475
+RPTOR,57521,https://www.kegg.jp/entry/hsa:57521
+AKT1S1,84335,https://www.kegg.jp/entry/hsa:84335
+DEPTOR,64798,https://www.kegg.jp/entry/hsa:64798
+MLST8,64223,https://www.kegg.jp/entry/hsa:64223
+TELO2,9894,https://www.kegg.jp/entry/hsa:9894
+TTI1,9675,https://www.kegg.jp/entry/hsa:9675
+NRBF2,29982,https://www.kegg.jp/entry/hsa:29982
+FASLG,356,https://www.kegg.jp/entry/hsa:356
+TNFSF10,8743,https://www.kegg.jp/entry/hsa:8743
+TNFRSF10B,8795,https://www.kegg.jp/entry/hsa:8795
+CASP10,843,https://www.kegg.jp/entry/hsa:843
+PMAIP1,5366,https://www.kegg.jp/entry/hsa:5366
+BAD,572,https://www.kegg.jp/entry/hsa:572
+BCL2L11,10018,https://www.kegg.jp/entry/hsa:10018
+GRM5 glutamate metabotropic receptor 5,2915,
+CASP9 caspase 9,842,
+PSEN1 presenilin 1,5663,
+RYR3 ryanodine receptor 3,6263,
+CHRM1 cholinergic receptor muscarinic 1,1128,
+CHRM3 cholinergic receptor muscarinic 3,1131,
+CHRM5 cholinergic receptor muscarinic 5,1133,
+CACNA1C calcium voltage-gated channel subunit alpha1 C,775,
+CACNA1D calcium voltage-gated channel subunit alpha1 D,776,
+CACNA1F calcium voltage-gated channel subunit alpha1 F,778,
+CACNA1S calcium voltage-gated channel subunit alpha1 S,779,
+GRIN1 glutamate ionotropic receptor NMDA type subunit 1,2902,
+GRIN2A glutamate ionotropic receptor NMDA type subunit 2A,2903,
+GRIN2B glutamate ionotropic receptor NMDA type subunit 2B,2904,
+GRIN2C glutamate ionotropic receptor NMDA type subunit 2C,2905,
+GRIN2D glutamate ionotropic receptor NMDA type subunit 2D,2906,
+PSMB2 proteasome 20S subunit beta 2,5690,
+PSMB5 proteasome 20S subunit beta 5,5693,
+PSMB1 proteasome 20S subunit beta 1,5689,
+MAP3K5 mitogen-activated protein kinase kinase kinase 5,4217,
+MAPK8 mitogen-activated protein kinase 8,5599,
+MAPK9 mitogen-activated protein kinase 9,5601,
+MAPK10 mitogen-activated protein kinase 10,5602,
+"KRAS KRAS proto-oncogene, GTPase",3845,
+"BRAF B-Raf proto-oncogene, serine/threonine kinase",673,
+"RAF1 Raf-1 proto-oncogene, serine/threonine kinase",5894,
+MAP2K1 mitogen-activated protein kinase kinase 1,5604,
+MAP2K2 mitogen-activated protein kinase kinase 2,5605,
+MAPK1 mitogen-activated protein kinase 1,5594,
+MAPK3 mitogen-activated protein kinase 3,5595,
+NFKB1 nuclear factor kappa B subunit 1,4790,
+"RELA RELA proto-oncogene, NF-kB subunit",5970,
+TNF tumor necrosis factor,7124,
+IL6 interleukin 6,3569,
+NOS2 nitric oxide synthase 2,4843,
+CHRNA7 cholinergic receptor nicotinic alpha 7 subunit,1139,
+CDK5 cyclin dependent kinase 5,1020,
+MAPT microtubule associated protein tau,4137,
+GSK3B glycogen synthase kinase 3 beta,2932,
+TUBB tubulin beta class I,203068,
+TUBB1 tubulin beta 1 class VI,81027,
+TUBB2A tubulin beta 2A class IIa,7280,
+TUBB2B tubulin beta 2B class IIb,347733,
+TUBB3 tubulin beta 3 class III,10381,
+TUBB4A tubulin beta 4A class IVa,10382,
+TUBB4B tubulin beta 4B class IVb,10383,
+TUBB6 tubulin beta 6 class V,84617,
+TUBB8 tubulin beta 8 class VIII,347688,
+MME membrane metalloendopeptidase,4311,
+SNCA synuclein alpha,6622,
+BCL2L1 BCL2 like 1,598,
+TH tyrosine hydroxylase,7054,
+MAOA monoamine oxidase A,4128,
+MAOB monoamine oxidase B,4129,
+SLC18A2 solute carrier family 18 member A2,6571,
+TP53 tumor protein p53,7157,
+NFE2L2 NFE2 like bZIP transcription factor 2,4780,
+SIGMAR1 sigma non-opioid intracellular receptor 1,10280,
+SOD1 superoxide dismutase 1,6647,
+HK1 hexokinase 1,3098,
+BCL2 BCL2 apoptosis regulator,596,
+ERBB4 erb-b2 receptor tyrosine kinase 4,2066,
+NCBP1 nuclear cap binding protein subunit 1,4686,
+HTT huntingtin,3064,
+CACNA1B calcium voltage-gated channel subunit alpha1 B,774,
+PIK3C3 phosphatidylinositol 3-kinase catalytic subunit type 3,5289,
+HDAC1 histone deacetylase 1,3065,
+HDAC2 histone deacetylase 2,3066,
+PRKCG protein kinase C gamma,5582,
+KCNC3 potassium voltage-gated channel subfamily C member 3,3748,
+KCND3 potassium voltage-gated channel subfamily D member 3,3752,
+"PIK3CA phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",5290,
+"PIK3CB phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",5291,
+"PIK3CD phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",5293,
+AKT1 AKT serine/threonine kinase 1,207,
+AKT2 AKT serine/threonine kinase 2,208,
+AKT3 AKT serine/threonine kinase 3,10000,
+RYR1 ryanodine receptor 1,6261,
+RYR2 ryanodine receptor 2,6262,
+"FYN FYN proto-oncogene, Src family tyrosine kinase",2534,
+PRKCD protein kinase C delta,5580,
+RAC1 Rac family small GTPase 1,5879,
+NOTCH1 notch receptor 1,4851,
+PRKCA protein kinase C alpha,5578,
+PRKCB protein kinase C beta,5579,
+CACNA1G calcium voltage-gated channel subunit alpha1 G,8913,
+CACNA1H calcium voltage-gated channel subunit alpha1 H,8912,
+CACNA1I calcium voltage-gated channel subunit alpha1 I,8911,
+MTOR mechanistic target of rapamycin kinase,2475,
+TNFRSF10B TNF receptor superfamily member 10b,8795,
